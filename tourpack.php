@@ -269,13 +269,13 @@
    </div>
 </div>
 <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-xs hidden-md visible-sm hidden-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-lg hidden-md hidden-sm visible-xs container-fluid" style="padding:0px; margin:20px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <?php include 'footer.php'; ?>
  

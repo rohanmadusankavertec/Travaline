@@ -140,7 +140,7 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.853429654679!
             2d79.95896199999997!3d6.6650789999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!
             1s0x3ae248342e80037b%3A0xd8cf402526dd51ef!2sVertec+International+Pvt.+Limited!5e0!3m2!1sen!2slk!
-            4v1409887168138" class="com_map" width="90%" height="400px" style="border:1px solid #333; margin-left:5%"></iframe>
+            4v1409887168138" class="com_map" width="90%" height="300px" style="border:1px solid #333; margin-left:5%"></iframe>
                 </div>
 
 				
@@ -217,13 +217,13 @@
    </div>
 </div>
 <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-xs hidden-md visible-sm hidden-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-lg hidden-md hidden-sm visible-xs container-fluid" style="padding:0px; margin:20px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 
 <?php include 'footer.php'; ?>
