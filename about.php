@@ -256,8 +256,191 @@
     </div>
    </div>
 </div>
-       <div class="col-md-12">
        
+       <!-- ..................................................... -->
+       <div class="col-md-12" style="margin-top: -10px;">
+           <div style="background-color:#cccccc;margin-bottom: -10px; ">
+                                <h4 style="text-align: center;">Destination</h4>
+                            </div>
+           <div class="controls pull-right hidden-xs" style="margin-bottom: -10px;">
+                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example2"
+                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example2"
+                                   data-slide="next"></a>
+                            </div>
+
+
+                            <div id="carousel-example2" class="carousel slide hidden-xs" data-ride="carousel">
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <div class="row">
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/bangkok.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Bangkok</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/singapore.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Singapore</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/jakarta.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Jakarta</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="row">
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/chenni.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Chennai</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/beiging.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Beijing</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/pattaya.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Pattaya</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+                                            
+                                            
+
+
+
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="row">
+                                            
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/tokyo.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Tokyo</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/narita.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Narita</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/des/Bangkok2.jpg">
+<!--                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>-->
+                                                        <div class="pack_2">
+                                                            <p>Bangkok</p>
+                                                        </div>
+                                                        <!--<p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>-->
+                                                    </div></div>
+                                            </div>
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
        </div>
 <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
       <img src="image/bottom_head.png" style="width:100%;">
