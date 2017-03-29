@@ -169,7 +169,7 @@
                 </div>--> 
                 <div class="about_com">
                 <br>
-                	<h4>About Us</h4>
+                	<h4>TravaLine</h4>
                    
                     <p class="para">Is a organization of Sri Lanka providing services for, </p>
                     	<ul>
@@ -181,19 +181,19 @@
 
                         </ul>
                     <p class="para">at a reputable way and populer known in Sri Lanka.</p>
-                    <p class="para" style="margin-top:30px;">Sri Lanka one of the repidly expanding destination in South Asia, and we  a orgniazation in repidly expanding in Sri Lanka.invite you to join with us have these services through Sahan Travels Way.
+                    <p class="para" style="margin-top:10px;">Sri Lanka one of the repidly expanding destination in South Asia, and we  a orgniazation in repidly expanding in Sri Lanka.invite you to join with us have these services through Sahan Travels Way.
 </p>
                     <div class="clear"></div>
                     <br>
              
-                    <p class="para">Therefore, we would like to invite you to join with us and get the reputable services from our well experianced and capable staf.
+                    <p class="para" style="margin-top: -20px;">Therefore, we would like to invite you to join with us and get the reputable services from our well experianced and capable staf.
 </p>
                     <br>
                     <p class="para"></p>
                     
                 </div>
-                <div class="col-lg-12">
-                	<img src="image/srilankan_map.jpg" style="width:80%; margin-left:50px;"/>
+               <div class="col-lg-12" style="background-color: #0099ff;">
+                	<img src="image/worldMap-Edit.jpg" style="width:100%; margin-left:0%;"/>
                 </div> 
                 <!--<div class="col-lg-6 col-md-6 col-sm-6" style="margin-bottom:30px;">
                 	<img src="image/about_img1.jpg" style="width:95%;"/>
@@ -228,42 +228,45 @@
  			</div>
             
            
-            <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:30px;">
+            <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:10px;">
             	<div class="second_slide">
                 	<iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
                 </div>
             </div>
 
 			<div class="clear"></div>
-            <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:70px;">
+            <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:1px;">
             	<div class="right_tow">
-                	<h3>BOOK NOW</h3>
+                	<h4>BOOK NOW</h4>
                 </div>
-                <div class="boder"></div>
+                <div class="boder" style="padding-bottom: -20px;"></div>
                 <a href="booking.php"><img src="image/book-300x187.png"></a>
                <br>
-               <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
+               <!--<p style="color:#333; padding-left:5px">Click here to book your Tour....</p>-->
                 
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 brochure" style="margin-top:70px;">
+            <div class="col-lg-12 col-md-12 col-sm-12 brochure">
             	<div class="right_tow">
-                	<h3>BROCHURE</h3>
+                	<h4>BROCHURE</h4>
                 </div>
-                <div class="boder"></div>
+                <div class="boder" style="padding-bottom: -50px;"></div>
                 <img src="image/brochure_11-300x187.png">
             </div>
         </div>
     </div>
    </div>
 </div>
+       <div class="col-md-12">
+       
+       </div>
 <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-xs hidden-md visible-sm hidden-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-lg hidden-md hidden-sm visible-xs container-fluid" style="padding:0px; margin:20px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <?php include 'footer.php'; ?>
  
