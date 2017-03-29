@@ -344,7 +344,7 @@ function mailsend() {
                     01. This offer is valid only for those who book their ticket till 30th september, 2016 only.<br>
                     02. The outbound travels are all available 31st December, 2016 only.<br>
                     03. This offer is valid only on srilankan Airlines operated flights.<br>
-                    04.This promotion is valid on Economy class booking only.<br>
+                    04. This promotion is valid on Economy class booking only.<br>
                     05. The travel should originate from srilanka.<br>
                     06.Seats are limited and only available for those who book throughither<br>
                     07. Tickets are non refundable<br>
