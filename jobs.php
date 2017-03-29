@@ -203,7 +203,40 @@ if (isset($_POST) && !empty($_POST)){
 Inland Job Opptunities from various organizations of Sri Lankans and for foregins. Apply with Your Details at our format.
 </p>
 					<img src="image/job_vacancy_banner.jpg" style="margin-top:40px; width:100%;"/>
-					
+		
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        <h3>Career Opportunities For;</h3>
+                         <marquee direction="up" scrollamount="2">
+                         
+                         
+                             <h4>Vacancy Heading 01</h4>
+                             <p>Job description of the vacancy heading 01</p>
+                         
+                             <br>
+                             <h4>Vacancy Heading 02</h4>
+                             <p>Job description of the vacancy heading 02</p>
+                         
+                             <br>
+                             <h4>Vacancy Heading 03</h4>
+                             <p>Job description of the vacancy heading 03</p>
+                         
+                             
+                         </marquee>
+              
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 application">
                 	<br>
@@ -573,13 +606,13 @@ Inland Job Opptunities from various organizations of Sri Lankans and for foregin
    </div>
 </div>
 <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-xs hidden-md visible-sm hidden-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <div class="hidden-lg hidden-md hidden-sm visible-xs container-fluid" style="padding:0px; margin:20px 0px 0px 0px;">
-      <img src="image/bottom_head.jpg" style="width:100%;">
+      <img src="image/bottom_head.png" style="width:100%;">
 </div>
 <?php include 'footer.php'; ?>
  
