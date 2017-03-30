@@ -216,7 +216,7 @@
             </div>
             
             <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
+<!--            <div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
                     <div class="a-side_search">
                         <form id="search" action="#" method="GET" accept-charset="utf-8">
                             <p>
@@ -225,19 +225,21 @@
                             </p>
                         </form>
                     </div>
- 			</div>
+ 			</div>-->
             
            
-            <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:10px;">
-            	<div class="second_slide">
+            <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top: 25%;">
+<!--            	<div class="second_slide">
                 	<iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
-                </div>
+                </div>-->
+<!--<img src="image/des/staff.jpg" style="width:100%;height:210px; max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0">-->
+<img src="image/staff .jpg" width="100%" height="100%"/>
             </div>
 
 			<div class="clear"></div>
             <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:1px;">
             	<div class="right_tow">
-                	<h4>BOOK NOW</h4>
+                	<h3>BOOK NOW</h3>
                 </div>
                 <div class="boder" style="padding-bottom: -20px;"></div>
                 <a href="booking.php"><img src="image/book-300x187.png"></a>
@@ -247,7 +249,7 @@
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 brochure">
             	<div class="right_tow">
-                	<h4>BROCHURE</h4>
+                	<h3>BROCHURE</h3>
                 </div>
                 <div class="boder" style="padding-bottom: -50px;"></div>
                 <img src="image/brochure_11-300x187.png">
