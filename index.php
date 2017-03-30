@@ -385,7 +385,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_7.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -402,7 +402,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_2.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -419,7 +419,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_3.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -441,7 +441,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_2.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -458,7 +458,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_1.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -475,7 +475,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_3.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -607,7 +607,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -624,7 +624,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -641,7 +641,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -663,7 +663,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -680,7 +680,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
@@ -697,7 +697,7 @@
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="#">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>

@@ -284,7 +284,7 @@ function mailsend() {
             <?php include 'navigation.php'; ?>
 
             <div class="container head_about">
-                <h1>Ticketing</h1>
+                <h1>Special Tour Package</h1>
                 <h5>Pick Your Holiday</h5>
             </div>
 
@@ -300,18 +300,19 @@ function mailsend() {
                 <br>
                 <br>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="text-center" style="width: 100%; height: 40px; background-color: #0099ff;">
-                        <span><h2>COLOMBO TO SINGAPPUR</h2></span>
-                    </div>
+                    
                     
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" >
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <div class="text-center" style="width: 100%; height: 40px; background-color: #000;">
+                            <span><h2 style="color: #ffffff">Bangkok Tour (2 Nights/3 Days)</h2></span>
+                    </div>
                         <br>
-                        <strong>ECONOMY CLASS</strong> SEATS ON SELECTED DESTINATION<br>
-                        Return Air Tickets | Sri Lankan Airlines<br>
-                        FARES STARTING FROM
-                        <div><h2>LKR 18,000 + Taxes*</h2></div>
+                         Three starHotel Accomadation<br>
+                        Room Type : Superior Bed<br>
+                        Cost per Person on Twin Shareing Basis
+                        <div><h2>LKR 14,900</h2></div>
                         
                         
                        
@@ -329,7 +330,7 @@ function mailsend() {
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     
-                        <img  src="image/srilankan_airlines.jpg" style="width: 70%; height: auto; float: right;"/>
+                        <img  src="image/Bangkok_Tour.jpg" style="width: 100%; height: auto; float: right;"/>
                     </div>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-style: inset; margin-top: 20px;">
@@ -340,20 +341,31 @@ function mailsend() {
                 <br>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " style="margin-top: 50px;">
                 
+                    <strong>Package inclusions</strong><br>
+                    * 02 Nights accommodation in bangkok with Breakfast.<br>
+                    * Transfer on SIC: Airport to Hotel to Airport in Bangkok.<br>
+                    * Princess Dinner Cruise.<br>
+                    
+                    <br>
+                    <br>
+                    
+                    <strong>Package Exclution</strong><br>
+                    * Air Fares.<br>
+                    * Tourist Visa for Bangkok.<br>
+                    * Surcharges if Applicable.<br>
+                    
+                     <br>
+                    <br>
+                    
+                    
                     <strong>Terms & Conditions</strong><br>
-                    01. This offer is valid only for those who book their ticket till 30th september, 2016 only.<br>
-                    02. The outbound travels are all available 31st December, 2016 only.<br>
-                    03. This offer is valid only on srilankan Airlines operated flights.<br>
-                    04. This promotion is valid on Economy class booking only.<br>
-                    05. The travel should originate from srilanka.<br>
-                    06.Seats are limited and only available for those who book throughither<br>
-                    07. Tickets are non refundable<br>
-                    08. These offers are bound by the terms and condition of the respective partners established for any more information please visitable<br>
-                    
-                    
-                    <strong>Booking Valid :</strong> 30th September, 2016<br>
-                    <strong>Travel Valid :</strong> 31st December, 2016
-                    
+                    * All Roomtype (double or twin bed) is on request basis subject to availability upon check-in.<br>
+                    * Seats are Subject to Availability.<br>
+                    * Rooms are Subject to Availability.<br>
+                    * All the package are none refundable.<br>
+                    * Hotel Check-In Time 14:00 Hrs and Check-Out Time 12:00Hrs.<br>
+                    * Full Payment Should be Upfront.<br>
+                    * All flynow.lk Terms & Conditions Apply.<br>
                     
                 </div>
                 <br>
