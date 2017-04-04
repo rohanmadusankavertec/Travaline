@@ -23,7 +23,12 @@
               	</div>
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<p class="head_para"  style="">
-                        <span class="glyphicon glyphicon-earphone"> </span> (+94) 777 58 2222 </p>
+                        <span class="glyphicon glyphicon-earphone"> </span> 
+                        (+94) 777 58 2222 
+                       
+                                                 
+                                                
+                                                </p>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 hidden-xs">
                 	<div class="langu">

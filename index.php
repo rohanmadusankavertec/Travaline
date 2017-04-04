@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="google-translate-customization" content="9074073d1b18bbe8-d4fa3f497a28dcbf-gddd021128bbf126c-22"></meta>
-        <title>Sahan Travels | Home</title>
+        <title>Trava Line | Home</title>
 
         <link rel="stylesheet" href="css/style.css">
 
@@ -95,7 +95,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12">
 
                         <h2> Air Line Tikets & Tours Operator</h2>
-                        <p>Sahan Travels</p>
+                        <p>Trava Line</p>
                     </div> 
                 </div>
             </div>
@@ -110,36 +110,71 @@
         <div class="container" style="margin-top:30px; margin-bottom:10px;">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
+
+
+
                     <div class="col-lg-8 col-md-8 col-sm-8">
+                        <br>
+                        <br>
+                        <br>
                         <div class="main_top">
                             <h4 style="padding-left:10px;">Destination Management & Leisure Products Services</h4>
                             <p class="para">Our range of Destination Management & Leisure Products Services include:Representing Tour Operators worldwide, Handling Individual Travelers, Group inclusive Tours, Handling/ Servicing VIP’s, Special Interest Tours, Excursions / Cruises / Air taxi Services, Versatile Tour packages, Transportation, Hotel & Resort Reservation.</p>
                         </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4" style="margin-top:10px;">
+                        <!--<div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
+                                <div class="a-side_search">
+                                    <form id="search" action="#" method="GET" accept-charset="utf-8">
+                                        <p>
+                                           <input type="text" name="s" value="Type keyword:" onblur="if(this.value == '') { this.value='Enter keyword:'}" onfocus="if (this.value == 'Enter keyword:') {this.value=''}" />
+                                           <a onclick="document.getElementById('search').submit()"></a>                        
+                                        </p>
+                                    </form>
+                                </div>
+                                    </div>-->
+
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 ">
+                            <div class="second_slide">
+                                <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+
+                        <table style="background-color:#cccccc; height: 20px; width: 100%">
+                            <tr>
+                                <td>
+                                    <h4 style="margin-left: 50px;">Tickets Offers</h4>
+                                </td>
+                            </tr>
+                        </table>
+
+
+
+                        <div >
+
+                        </div>
+
+                    </div>
+
+
+
+
+                    <div class="col-lg-10 col-md-10 col-sm-10">
+
                         <div class="clear"></div>
                         <hr>
                         <div class="pack">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                             <!--<h4 style="background-color: #cccccc">Tickets Offers</h4>-->
-                            <div style="background-color:#cccccc; ">
-                                <h4 style="margin-left: 50px;">Tickets Offers</h4>
-                            </div>   
+
                             <div class="clear"></div>
 
                             <div class="controls pull-right hidden-xs">
@@ -154,7 +189,7 @@
                                 <div class="carousel-inner">
                                     <div class="item active">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_2.jpg">
@@ -171,7 +206,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_1.jpg">
@@ -188,7 +223,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_4.jpg">
@@ -203,14 +238,28 @@
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Online Bookings</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
 
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_2.jpg">
@@ -227,7 +276,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_1.jpg">
@@ -244,7 +293,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_4.jpg">
@@ -259,7 +308,21 @@
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Online Bookings</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
 
                                         </div>
@@ -345,7 +408,14 @@
                             <div class="clear"></div>
                             <hr>
                             <div style="background-color:#cccccc; ">
-                                <h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>
+                                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                                    <tr>
+                                        <td>
+                                            <h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--<h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>-->
                             </div>
                             <!--<h4 style="background-color: #cccccc">Tour packages (Foreign)</h4>-->
                             <!--<h3 style="padding-left:20px;">Tour packages</h3>-->
@@ -380,7 +450,7 @@
                                 <div class="carousel-inner">
                                     <div class="item active">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_7.jpg">
@@ -397,7 +467,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_2.jpg">
@@ -414,7 +484,22 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_3.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Hill Capital</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_3.jpg">
@@ -431,12 +516,11 @@
                                             </div>
 
 
-
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_2.jpg">
@@ -453,7 +537,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_1.jpg">
@@ -470,7 +554,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_3.jpg">
@@ -485,7 +569,21 @@
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_3.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Hill Capital</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
 
                                         </div>
@@ -573,7 +671,14 @@
 
                             <div class="clear"></div>
                             <div style="background-color:#cccccc; ">
-                                <h4 style="margin-left: 50px;">Tour packages (Local)</h4>
+                                <!--<h4 style="margin-left: 50px;">Tour packages (Local)</h4>-->
+                                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                                    <tr>
+                                        <td>
+                                            <h4 style="margin-left: 50px;">Tour packages (Local)</h4>
+                                        </td>
+                                    </tr>
+                                </table>
                             </div>
 
 
@@ -602,7 +707,7 @@
                                 <div class="carousel-inner">
                                     <div class="item active">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
@@ -619,7 +724,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
@@ -636,7 +741,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
@@ -651,14 +756,28 @@
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Railway Travels</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
 
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
@@ -675,7 +794,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
@@ -692,7 +811,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
@@ -708,7 +827,21 @@
                                                     </div></div>
                                             </div>
 
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Railway Travels</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
                                         </div>
                                     </div>
@@ -815,7 +948,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4" style="margin-top:10px;">
+                    <div class="col-lg-2 col-md-2 col-sm-2" style="margin-top:10px;">
                         <!--<div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
                                 <div class="a-side_search">
                                     <form id="search" action="#" method="GET" accept-charset="utf-8">
@@ -828,20 +961,20 @@
                                     </div>-->
 
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 ">
-                            <div class="second_slide">
-                                <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
-                            </div>
-                        </div>
+                        <!--                        <div class="col-lg-12 col-md-12 col-sm-12 ">
+                                                    <div class="second_slide">
+                                                        <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+                                                    </div>
+                                                </div>-->
 
                         <div class="clear"></div>
                         <div class="col-lg-12 col-md-12 col-sm-12 brochure" style="margin-top:40px;">
-                            <div class="right_tow">
-                                <h3>Advertisements</h3>
-                            </div>
-                            <div class="boder"></div>
+                            <!--                            <div class="right_tow">
+                                                            <h3>Advertisements</h3>
+                                                        </div>-->
+                            <!--<div class="boder"></div>-->
                             <center>
-                                <a href="#"> <img src="image/ikman.gif" style="width: 50%; height: auto;"/> </a>
+                                <a href="#"> <img src="image/ikman.gif" style="width: 120%; height: auto;"/> </a>
                             </center>
                         </div>
 

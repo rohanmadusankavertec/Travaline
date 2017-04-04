@@ -19,8 +19,14 @@
                             <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 con" style="padding:0px; margin:0px;">
                                  
                                      <p class="head_para">
-                                    <span class="glyphicon glyphicon-earphone" style="color:#F00;"> </span><span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 </p>
-                                       <!-- <div class="ticket_booking_1">
+                                    <span class="glyphicon glyphicon-earphone" style="color:#F00;">
+                                    </span><span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 
+                                     <div style="margin-left: 50px;"><span><img src="image/viber_whatsapp.png" width="40" height="20"/></span><span style="color: #0099ff">FOR BOOKING HELP</span></div>
+                                    
+                                     </p>
+                                      
+                                     
+                                        <!-- <div class="ticket_booking_1">
                 <a href="ticketing.php#air_ticket"><button type="button" class="btn btn-danger ticket_btn_l">Flight Ticket</button></a>
                                         </div>-->
                             </div>
