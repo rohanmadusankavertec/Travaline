@@ -179,6 +179,7 @@ header
 	padding-top: 35px;
 	
 */	/*color:#FFF;*/
+z-index: 1000;
 	padding-left: 10px;
 	padding-right: 10px;
 	font-weight: bold;

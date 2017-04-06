@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 
-<div class="navbar navbar-default navbar-static-top top_two" role="navigation">
+<div class="navbar navbar-default navbar-static-top top_two" role="navigation" style="z-index: 1;">
 			<!--<div class="container">-->
             	<div class="col-lg-1 col-md-1"></div>
             	<div class="col-lg-3 col-md-3 col-sm-4 col-xs-5" style="padding:0px; margin:0px;">
