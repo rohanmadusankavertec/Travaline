@@ -76,7 +76,7 @@
                                             </li>
                                             <li class="<?php if($_GET['page']=='tour') {echo'active';} ?>">
                                                 <!--<a href="tourpack.php?page=tour">Tourpack</a>-->
-                                                <a href="TourPackage.php">Tourpack</a>
+                                                <a href="TourPackage.php?page=tour">Tourpack</a>
                                     		</li>
                                             <li class="<?php if($_GET['page']=='tick') {echo 'active';} ?>">
                                                 <a href="ticketing.php?page=tick">Ticketing</a>

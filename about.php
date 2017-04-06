@@ -92,7 +92,7 @@
         <?php include 'navigation.php'; ?>
         <div class="container head_about">
         <h1>About Us</h1>
-        <h5>Sahan Travels</h5>
+        <h5>Trava Line</h5>
         </div>
       
        </header>
