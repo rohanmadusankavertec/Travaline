@@ -156,7 +156,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tourism | Tourpack</title>
+        <title>Trava Line | Tourpack</title>
 
         <link rel="stylesheet" href="css/style.css">
 
@@ -247,7 +247,7 @@
 
                         <div class="col-lg-12 col-md-12 col-sm-12 ">
                             <div class="second_slide">
-                                <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+                                <iframe src="slide2.html" style="width:100%;height:250px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
                             </div>
                         </div>
 
@@ -279,14 +279,20 @@
                             </div>   
                             <div class="clear"></div>
 
-                            <div class="controls pull-right hidden-xs">
-                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example1"
-                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example1"
-                                   data-slide="next"></a>
+                            <div class="row">
+
+                                <div class="col-md-3" style="float: right;">
+                                    <!-- Controls -->
+                                    <div class="controls pull-right">
+                                        <a class="left fa fa-chevron-left btn btn" href="#slder"
+                                           data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slder"
+                                           data-slide="next"></a>
+                                    </div>
+                                </div>
                             </div>
 
 
-                            <div id="carousel-example1" class="carousel slide hidden-xs" data-ride="carousel">
+                            <div id="slder" class="carousel slide hidden-xs" data-ride="carousel">
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
@@ -448,10 +454,10 @@
             </div>
         </div>
         
-        <div class="container" style="">
+        <div class="container" style="margin-bottom: 50px;">
    	<div class="row">
     	<div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;margin-bottom: 15%;">
+            <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;">
             	
 <!--                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
                     	
@@ -487,8 +493,8 @@
                        <div class="container">
                        <div class="row">
                            
-                       <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 1px solid #cccccc;margin-left: 20px;">
-                           <div class="booking_bd">
+                       <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 2px solid #cccccc;margin-left: 20px;">
+                           <div class="booking_bd" style="margin-top: 35px;">
                 <form action="#" method="post">
                 	<fieldset>
                     <?php mailsend() ?>
@@ -666,20 +672,19 @@
 						    	<span>Full Name*</span>
 						    	<span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
 						    </div>
+                            <div class="clearfix"></div>
                             <div class="col-lg-10 col-md-10 col-sm-10">
 						    	<span>Email*</span>
 						    	<span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
 						    </div>
-						    
-                            <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
+						    <div class="clearfix"></div>
                             <div class="col-lg-10 col-md-10 col-sm-10">
 						    	<span>Phone Number*</span>
                                 
                                 <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
 						    	
 						    </div>
+                            <div class="clearfix"></div>
                             
                             <div class="col-lg-10 col-md-10 col-sm-10">
 						    	<span>Address</span>
@@ -688,7 +693,7 @@
                             <div class="clear"></div>
                             <div class="clear"></div>
                             <br>
-                            <div class="col-lg-10 col-md-10 col-sm-10" style="margin-bottom: 3%;">
+                            <div class="col-lg-10 col-md-10 col-sm-10" style="margin-bottom: 3%; margin-top: 20px;">
                            		<!--<label class="fa-btn btn-1 btn-1e">-->
                                         <input style="width: 40%;"class="btn btn-warning" type="submit" value="Send" name="send"></label>
 						   		

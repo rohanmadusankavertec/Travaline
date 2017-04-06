@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Tourism | Tourpack</title>
+<title>Trava Line | Tourpack</title>
 
 <link rel="stylesheet" href="css/style.css">
 

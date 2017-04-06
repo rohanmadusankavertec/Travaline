@@ -57,7 +57,7 @@ function mailsend() {
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tourism | Contact</title>
+        <title>Trava Line | Contact</title>
 
         <link rel="stylesheet" href="css/style.css">
 

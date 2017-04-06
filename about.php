@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Sahan Travels | About</title>
+<title>Trava Line | About</title>
 
 <link rel="stylesheet" href="css/style.css">
 
