@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 
-<div class="navbar navbar-default navbar-static-top top_two" role="navigation">
+<div class="navbar navbar-default navbar-static-top top_two" role="navigation" style="z-index: 1;">
 			<!--<div class="container">-->
             	<div class="col-lg-1 col-md-1"></div>
             	<div class="col-lg-3 col-md-3 col-sm-4 col-xs-5" style="padding:0px; margin:0px;">
@@ -19,8 +19,14 @@
                             <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 con" style="padding:0px; margin:0px;">
                                  
                                      <p class="head_para">
-                                    <span class="glyphicon glyphicon-earphone" style="color:#F00;"> </span><span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 </p>
-                                       <!-- <div class="ticket_booking_1">
+                                    <span class="glyphicon glyphicon-earphone" style="color:#F00;">
+                                    </span><span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 
+                                     <div style="margin-left: 50px;"><span><img src="image/viber_whatsapp.png" width="40" height="20"/></span><span style="color: #0099ff">FOR BOOKING HELP</span></div>
+                                    
+                                     </p>
+                                      
+                                     
+                                        <!-- <div class="ticket_booking_1">
                 <a href="ticketing.php#air_ticket"><button type="button" class="btn btn-danger ticket_btn_l">Flight Ticket</button></a>
                                         </div>-->
                             </div>
@@ -69,7 +75,8 @@
                                                 <a href="index.php">Home</a>	
                                             </li>
                                             <li class="<?php if($_GET['page']=='tour') {echo'active';} ?>">
-                                        		<a href="tourpack.php?page=tour">Tourpack</a>
+                                                <!--<a href="tourpack.php?page=tour">Tourpack</a>-->
+                                                <a href="TourPackage.php">Tourpack</a>
                                     		</li>
                                             <li class="<?php if($_GET['page']=='tick') {echo 'active';} ?>">
                                                 <a href="ticketing.php?page=tick">Ticketing</a>

@@ -204,7 +204,7 @@ if (isset ($_POST['subject1'])){
   </a>
 	</div> 
     
- 	<div class="col-lg-12 hidden-sm hidden-xs flex"> 
+    <div class="col-lg-12 hidden-sm hidden-xs flex" style="z-index: 1;"> 
     	<div class="col-lg-8 col-md-7 col-sm-6">
     		<!--<div class="col-lg-12 col-md-12 col-sm-12">
            		<div class="col-lg-3 col-md-3"></div>
@@ -240,13 +240,13 @@ if (isset ($_POST['subject1'])){
                     <input type="text" class="form_con" id="contact" name="contact" /></label>-->
                 <label class="col-lg-6 col-md-6"><span>Departure Date</span>
                     <input type="text" class="form_con" id="ch_in" name="checkin" placeholder="Check in" /></label>
-      <div id="returnpanel">
+                    <div id="returnpanel" style="z-index: -50000;">
                 
-				<!--
+				
 				
 				<label class="col-lg-6 col-md-6" ><span>Return Date</span>
                     <input type="text" class="form_con" id="ch_out" name="checkout" placeholder="Check out" /></label>  
-				-->
+				
 				
 				
 				  			</div>

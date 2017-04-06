@@ -56,14 +56,15 @@
                       <p ><img src="image/Civil-aviation.png" height="30%" width="30%" ></p>
                  </div>
 				 
-				 <div class="footer_head">
-                    	<h3>PAYMENT METHODS</h3>
-                 	</div>
+				
                     <div >
                   
-                     
-                      <p><img src="image/c1.png" height="30%" width="30%" /> <img src="image/c2.png" height="30%" width="30%" /> </p>
+                        <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
+                      <!--<p><img src="image/c1.png" height="30%" width="30%" /> <img src="image/c2.png" height="30%" width="30%" /> </p>-->
                  </div>
+                   <div style="width: 200px; height: 90px;">
+                       <img src="data1/images/footer-social.png" width="200" height="90"/>
+                   </div>
                     <!--
                     <div class="footer_head">
                     	<h3>FOLLOW US!</h3>
@@ -94,7 +95,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<hr/>
             	<div class="copy">
-                	<p align="center">© 2014 Copyright sahan travels | web solution By <a href="http://vteccreations.com/" target="_blank">vteccreations.com</a></p>
+                	<p align="center">© 2017 Copyright Trava Line | Web Solution By <a href="http://vertecitsolutions.com" target="_blank">vertecitsolutions.com</a></p>
                 </div>
                 
             </div>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="google-translate-customization" content="9074073d1b18bbe8-d4fa3f497a28dcbf-gddd021128bbf126c-22"></meta>
-        <title>Sahan Travels | Home</title>
+        <title>Trava Line | Home</title>
 
         <link rel="stylesheet" href="css/style.css">
 
@@ -95,7 +95,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12">
 
                         <h2> Air Line Tikets & Tours Operator</h2>
-                        <p>Sahan Travels</p>
+                        <p>Trava Line</p>
                     </div> 
                 </div>
             </div>
@@ -110,51 +110,269 @@
         <div class="container" style="margin-top:30px; margin-bottom:10px;">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
+
+
+
                     <div class="col-lg-8 col-md-8 col-sm-8">
+                        <br>
+                        <br>
+                        <br>
                         <div class="main_top">
                             <h4 style="padding-left:10px;">Destination Management & Leisure Products Services</h4>
                             <p class="para">Our range of Destination Management & Leisure Products Services include:Representing Tour Operators worldwide, Handling Individual Travelers, Group inclusive Tours, Handling/ Servicing VIP’s, Special Interest Tours, Excursions / Cruises / Air taxi Services, Versatile Tour packages, Transportation, Hotel & Resort Reservation.</p>
                         </div>
-                        <div class="clear"></div>
-                        <hr>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4" style="margin-top:10px;">
+                        <!--<div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
+                                <div class="a-side_search">
+                                    <form id="search" action="#" method="GET" accept-charset="utf-8">
+                                        <p>
+                                           <input type="text" name="s" value="Type keyword:" onblur="if(this.value == '') { this.value='Enter keyword:'}" onfocus="if (this.value == 'Enter keyword:') {this.value=''}" />
+                                           <a onclick="document.getElementById('search').submit()"></a>                        
+                                        </p>
+                                    </form>
+                                </div>
+                                    </div>-->
+
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 ">
+                            <div class="second_slide">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <iframe src="slide2.html" style="width:100%;height:250px; max-width:100%;overflow-y:hidden;border:none;" marginheight="0" marginwidth="0"></iframe>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+
+                        <table style="background-color:#cccccc; height: 20px; width: 100%">
+                            <tr>
+                                <td>
+                                    <h4 style="margin-left: 50px;">Tickets Offers</h4>
+                                </td>
+                            </tr>
+                        </table>
+
+
+
+                        
+
+                    </div>
+
+
+
+
+                    <div class="col-lg-10 col-md-10 col-sm-10">
+
+                        
                         <div class="pack">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                             <!--<h4 style="background-color: #cccccc">Tickets Offers</h4>-->
-                            <div style="background-color:#cccccc; ">
-                                <h4 style="margin-left: 50px;">Tickets Offers</h4>
-                            </div>   
-                            <div class="clear"></div>
 
-                            <div class="controls pull-right hidden-xs">
-                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example1"
-                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example1"
-                                   data-slide="next"></a>
+                            <!--                            <div class="clear"></div>
+                            
+                                                        <div class="controls pull-right hidden-xs">
+                                                            <a class="left fa fa-chevron-left btn btn" href="#slide1"
+                                                               data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slide1"
+                                                               data-slide="next"></a>
+                                                        </div>-->
+
+
+                            <!--                            <div id="slide1" class="carousel slide hidden-xs" data-ride="carousel">
+                                                             Wrapper for slides 
+                                                            <div class="carousel-inner">
+                                                                <div class="item active">
+                                                                    <div class="row">
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_2.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Available for all Countries</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_1.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Special Offers</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_4.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Online Bookings</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_4.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Online Bookings</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                    </div>
+                                                                </div>
+                                                                <div class="item">
+                                                                    <div class="row">
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_2.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Available for all Countries</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_1.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Special Offers</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_4.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Online Bookings</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_4.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="ticket.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Online Bookings</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="row">
+
+                                <div class="col-md-3" style="float: right;">
+                                    <!-- Controls -->
+                                    <div class="controls pull-right">
+                                        <a class="left fa fa-chevron-left btn btn" href="#slder1"
+                                           data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slder1"
+                                           data-slide="next"></a>
+                                    </div>
+                                </div>
                             </div>
-
-
-                            <div id="carousel-example1" class="carousel slide hidden-xs" data-ride="carousel">
+                            <div id="slder1" class="carousel slide" data-ride="carousel">
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_2.jpg">
@@ -164,14 +382,14 @@
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Available for all Countries</p>
+                                                            <p>SINGAPORE</p>
                                                         </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
                                                     </div></div>
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_1.jpg">
@@ -181,14 +399,14 @@
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Special Offers</p>
+                                                            <p>DUBAI</p>
                                                         </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
                                                     </div></div>
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/ho_4.jpg">
@@ -198,7 +416,216 @@
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Online Bookings</p>
+                                                            <p>OMAN</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>KUWAIT</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="row">
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_2.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>SINGAPORE</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_1.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>DUBAI</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>OMAN</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/ho_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>KUWAIT</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 19,500.00 LKR</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="row">
+                                <div class="clear"></div>
+                                <hr>
+                                <div style="background-color:#cccccc; ">
+                                    <table style="background-color:#cccccc; height: 20px; width: 100%">
+                                        <tr>
+                                            <td>
+                                                <h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!--<h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>-->
+                                </div>
+
+                                <div class="col-md-3" style="float: right;">
+                                    <!-- Controls -->
+                                    <div class="controls pull-right">
+                                        <a class="left fa fa-chevron-left btn btn" href="#slder2"
+                                           data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slder2"
+                                           data-slide="next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="slder2" class="carousel slide" data-ride="carousel">
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <div class="row">
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_7.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>BANGKOK</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_2.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>KUALA LUMPUR</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_3.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>SINGAPORE</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_3.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>PATTAYA</p>
                                                         </div>
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
@@ -210,51 +637,68 @@
                                     </div>
                                     <div class="item">
                                         <div class="row">
-                                            <div class="col-sm-4">
+
+
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/ho_2.jpg">
+                                                        <img src="image/to_7.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Available for all Countries</p>
+                                                            <p>BANGKOK</p>
                                                         </div>
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/ho_1.jpg">
+                                                        <img src="image/to_2.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Special Offers</p>
+                                                            <p>KUALA LUMPUR</p>
                                                         </div>
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/ho_4.jpg">
+                                                        <img src="image/to_3.jpg">
                                                         <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="ticket.php">Read More</a>
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
                                                             </div>
                                                             <span class="bottem_border" style="border-bottom-color:#333"></span>
                                                         </div>
                                                         <div class="pack_2">
-                                                            <p>Online Bookings</p>
+                                                            <p>SINGAPORE</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_3.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>PATTAYA</p>
                                                         </div>
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
@@ -266,6 +710,197 @@
                                     </div>
                                 </div>
                             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+                                <div class="clear"></div>
+                                <hr>
+                                <div style="background-color:#cccccc; ">
+                                    <table style="background-color:#cccccc; height: 20px; width: 100%">
+                                        <tr>
+                                            <td>
+                                                <h4 style="margin-left: 50px;">Tour packages (Local)</h4>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!--<h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>-->
+                                </div>
+
+                                <div class="col-md-3" style="float: right;">
+                                    <!-- Controls -->
+                                    <div class="controls pull-right">
+                                        <a class="left fa fa-chevron-left btn btn" href="#slder3"
+                                           data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slder3"
+                                           data-slide="next"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="slder3" class="carousel slide" data-ride="carousel">
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                    <div class="item active">
+                                        <div class="row">
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>ANURADHAPURA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_5.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>KALUTHARA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>JAFNA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>SIGIRI</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="row">
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_4.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>ANURADHAPURA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_5.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>KALUTHARA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>JAFNA</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>SIGIRI</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
 
 
 
@@ -342,11 +977,7 @@
                                 </div>
                                     <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                             </div>-->
-                            <div class="clear"></div>
-                            <hr>
-                            <div style="background-color:#cccccc; ">
-                                <h4 style="margin-left: 50px;">Tour packages (Foreign)</h4>
-                            </div>
+
                             <!--<h4 style="background-color: #cccccc">Tour packages (Foreign)</h4>-->
                             <!--<h3 style="padding-left:20px;">Tour packages</h3>-->
 
@@ -368,130 +999,158 @@
 
 
 
-                            <div class="controls pull-right hidden-xs">
-                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example2"
-                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example2"
-                                   data-slide="next"></a>
-                            </div>
+                            <!--                            <div class="controls pull-right hidden-xs">
+                                                            <a class="left fa fa-chevron-left btn btn" href="#slide2"
+                                                               data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slide2"
+                                                               data-slide="next"></a>
+                                                        </div>-->
 
 
-                            <div id="carousel-example2" class="carousel slide hidden-xs" data-ride="carousel">
-                                <!-- Wrapper for slides -->
-                                <div class="carousel-inner">
-                                    <div class="item active">
-                                        <div class="row">
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/to_7.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                            <!--                            <div id="slide2" class="carousel slide hidden-xs" data-ride="carousel">
+                                                             Wrapper for slides 
+                                                            <div class="carousel-inner">
+                                                                <div class="item active">
+                                                                    <div class="row">
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_7.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>City Tours</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>-->
+
+
+                            <!--                                            <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_2.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Sea Side</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_3.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Hill Capital</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>-->
+                            <!--                                            <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_3.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Hill Capital</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>-->
+
+
+                            <!--                                        </div>
+                                                                </div>
+                                                                <div class="item">
+                                                                    <div class="row">
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_2.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Sea Side</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>-->
+
+
+                            <!--                                            <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/ho_1.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Special Offers</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_3.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Hill Capital</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                                                                        <div class="col-sm-3">
+                                                                            <div class="col-item">
+                                                                                <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                                                    <img src="image/to_3.jpg">
+                                                                                    <div class="package-ribbon-wrapper">
+                                                                                        <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                                                        </div>
+                                                                                        <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                                                    </div>
+                                                                                    <div class="pack_2">
+                                                                                        <p>Hill Capital</p>
+                                                                                    </div>
+                                                                                    <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                                                </div></div>
+                                                                        </div>
+                            
+                            
+                                                                    </div>
+                                                                </div>
                                                             </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>City Tours</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/to_2.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
-                                                            </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>Sea Side</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/to_3.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
-                                                            </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>Hill Capital</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="row">
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/to_2.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
-                                                            </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>Sea Side</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/ho_1.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
-                                                            </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>Special Offers</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-                                            <div class="col-sm-4">
-                                                <div class="col-item">
-                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
-                                                        <img src="image/to_3.jpg">
-                                                        <div class="package-ribbon-wrapper">
-                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
-                                                            </div>
-                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
-                                                        </div>
-                                                        <div class="pack_2">
-                                                            <p>Hill Capital</p>
-                                                        </div>
-                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
-                                                    </div></div>
-                                            </div>
-
-
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                                                        </div>-->
 
 
 
@@ -571,10 +1230,17 @@
 
 
 
-                            <div class="clear"></div>
+<!--                            <div class="clear"></div>
                             <div style="background-color:#cccccc; ">
                                 <h4 style="margin-left: 50px;">Tour packages (Local)</h4>
-                            </div>
+                                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                                    <tr>
+                                        <td>
+                                            <h4 style="margin-left: 50px;">Tour packages (Local)</h4>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>-->
 
 
 
@@ -589,20 +1255,20 @@
 
 
 
-
+<!--
                             <div class="controls pull-right hidden-xs">
-                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example3"
-                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example3"
+                                <a class="left fa fa-chevron-left btn btn" href="#slide3"
+                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slide3"
                                    data-slide="next"></a>
                             </div>
 
 
-                            <div id="carousel-example3" class="carousel slide hidden-xs" data-ride="carousel">
-                                <!-- Wrapper for slides -->
+                            <div id="slide3" class="carousel slide hidden-xs" data-ride="carousel">
+                               
                                 <div class="carousel-inner">
                                     <div class="item active">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
@@ -619,7 +1285,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
@@ -636,7 +1302,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
@@ -651,14 +1317,28 @@
                                                         <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
                                                     </div></div>
                                             </div>
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Railway Travels</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
 
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="row">
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_4.jpg">
@@ -675,7 +1355,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_5.jpg">
@@ -692,7 +1372,7 @@
                                             </div>
 
 
-                                            <div class="col-sm-4">
+                                            <div class="col-sm-3">
                                                 <div class="col-item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 part_1">
                                                         <img src="image/to_6.jpg">
@@ -708,7 +1388,21 @@
                                                     </div></div>
                                             </div>
 
-
+                                            <div class="col-sm-3">
+                                                <div class="col-item">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 part_1">
+                                                        <img src="image/to_6.jpg">
+                                                        <div class="package-ribbon-wrapper">
+                                                            <div class="package-type"><a href="SpecialTourPackage.php">Read More</a>
+                                                            </div>
+                                                            <span class="bottem_border" style="border-bottom-color:#333"></span>
+                                                        </div>
+                                                        <div class="pack_2">
+                                                            <p>Railway Travels</p>
+                                                        </div>
+                                                        <p class="days"><i class="glyphicon glyphicon-time"></i> 3 NIGHTS | 4 DAYS</p>
+                                                    </div></div>
+                                            </div>
 
                                         </div>
                                     </div>
@@ -717,7 +1411,7 @@
 
 
 
-
+-->
 
 
 
@@ -815,7 +1509,7 @@
                         </div>
 
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4" style="margin-top:10px;">
+                    <div class="col-lg-2 col-md-2 col-sm-2" style="margin-top:10px;">
                         <!--<div class="col-lg-12 col-md-12 col-sm-12" style="float:left">                
                                 <div class="a-side_search">
                                     <form id="search" action="#" method="GET" accept-charset="utf-8">
@@ -828,20 +1522,20 @@
                                     </div>-->
 
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 ">
-                            <div class="second_slide">
-                                <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
-                            </div>
-                        </div>
+                        <!--                        <div class="col-lg-12 col-md-12 col-sm-12 ">
+                                                    <div class="second_slide">
+                                                        <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+                                                    </div>
+                                                </div>-->
 
                         <div class="clear"></div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 brochure" style="margin-top:40px;">
-                            <div class="right_tow">
-                                <h3>Advertisements</h3>
-                            </div>
-                            <div class="boder"></div>
+                        <div class="col-lg-12 col-md-12 hidden-sm hidden-xs"  style="margin-top:40px;">
+                            <!--                            <div class="right_tow">
+                                                            <h3>Advertisements</h3>
+                                                        </div>-->
+                            <!--<div class="boder"></div>-->
                             <center>
-                                <a href="#"> <img src="image/ikman.gif" style="width: 50%; height: auto;"/> </a>
+                                <a href="#"> <img src="image/ikman.gif" style="width: 120%; height: auto;"/> </a>
                             </center>
                         </div>
 
