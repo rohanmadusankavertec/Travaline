@@ -133,141 +133,143 @@ function mailsend() {
                         </div>
                     </div>
                 </div>-->
- <!--    -----------------------------------------------------------------------    -->
-<!--        <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12" >
-        <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3%;background-color: #cca3e2;height: 50px;">
-                    <div class="container">
-                        <div class="row">
-                            <div style="text-align: center;">
-                                    <h3>How To Find Out Us</h3>
-                            </div>
+        <!--    -----------------------------------------------------------------------    -->
+        <!--        <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12" >
+                <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3%;background-color: #cca3e2;height: 50px;">
+                            <div class="container">
+                                <div class="row">
+                                    <div style="text-align: center;">
+                                            <h3>How To Find Out Us</h3>
+                                    </div>
+                                </div>
+                                
                         </div>
-                        
-                </div>
-            <div style="text-align: center;margin-bottom: 10px;">
-                <h3 style="margin-bottom: 10px;">How To Find Out Us</h3>
-            </div>
-            
-            
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3%;background-color: #cca3e2;height: 50px;">
-
-
-            <div style="text-align: center;">
-                <h3>Send Us Message</h3>
-
-
-
-            </div>
-        </div>
-        </div>
-        </div>
-        </div>-->
-        
-<!--    -----------------------------------------------------------------------    -->            
-        
-<!--        <div class="container" style="margin-bottom:100px;">
-            <div class="row">-->
-                <div class="col-lg-12 col-md-12 col-sm-12" style="margin-bottom:100px;">
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                            <div style="background-color: #ccabea;height: 50px;width: 100%;">
-                        <h3 style="padding-left:35px;padding-top: 15px;">How To Find Us</h3>
-                        </div>
-                        <div class="map" style="margin-top: 12%;">
-                            <!--<h3 style="padding-left:35px;">How To Find Us</h3>-->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.853429654679!
-                                    2d79.95896199999997!3d6.6650789999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!
-                                    1s0x3ae248342e80037b%3A0xd8cf402526dd51ef!2sVertec+International+Pvt.+Limited!5e0!3m2!1sen!2slk!
-                                    4v1409887168138" class="com_map" width="100%" height="350px" style="border:1px solid #333;"></iframe>
-                        </div>
-
-
-<!--                        <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:60px;">
-                            <center>                
-                                <div class="fb-page" data-href="https://www.facebook.com/TRAVA-LINE-908235289261679/" data-tabs="timeline" data-height="200" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div> 
-                            </center>
-                        </div>-->
-
-
-                    
+                    <div style="text-align: center;margin-bottom: 10px;">
+                        <h3 style="margin-bottom: 10px;">How To Find Out Us</h3>
                     </div>
+                    
+                    
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12" style="margin-top: 3%;background-color: #cca3e2;height: 50px;">
+        
+        
+                    <div style="text-align: center;">
+                        <h3>Send Us Message</h3>
+        
+        
+        
+                    </div>
+                </div>
+                </div>
+                </div>
+                </div>-->
+
+        <!--    -----------------------------------------------------------------------    -->            
+
+        <!--        <div class="container" style="margin-bottom:100px;">
+                    <div class="row">-->
+        <div class="col-lg-12 col-md-12 col-sm-12" style="margin-bottom:100px;">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div style="background-color: #ccabea;height: 50px;width: 100%;">
+                    <h3 style="padding-left:35px;padding-top: 15px;">How To Find Us</h3>
+                </div>
+                <div class="map" style="margin-top: 12%;">
+                    <!--<h3 style="padding-left:35px;">How To Find Us</h3>-->
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.853429654679!
+                            2d79.95896199999997!3d6.6650789999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!
+                            1s0x3ae248342e80037b%3A0xd8cf402526dd51ef!2sVertec+International+Pvt.+Limited!5e0!3m2!1sen!2slk!
+                            4v1409887168138" class="com_map" width="100%" height="350px" style="border:1px solid #333;"></iframe>
+                </div>
 
 
-                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                        <div style="background-color: #ccabea;height: 50px;width: 100%;">
-                        <h3 style="padding-left:35px;padding-top: 15px;">Send Us Message</h3>
-                        </div>
-
-                        <div class="clear"></div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:50px;">
-
-                            <form action="" method="post">
-                                <fieldset class="the-fieldset">
-                                    <!--<legend class="the-legend">Connect With Us</legend>-->
-                                    <?php mailsend() ?>
-                                    <div class="col-lg-12">
-                                        <span>Your Name*</span>
-                                        <span><input type="username" class="form-control text-feld" id="userName" name="name"></span>
-                                        <br>
-                                    </div>
-                                    
-                                    <div class="col-lg-12" style="margin-left: -14px;">
-                                        <div class="col-lg-6" style="">
-                                            <span>Your Email*</span>
-                                            <span><input type="email" class="form-control text-feld" id="inputEmail3" name="email"></span>
-                                            <br>
-                                        </div>
-<!--                                        <span>Your Email*</span>
-                                        <span><input type="email" class="form-control text-feld" id="inputEmail3" name="email"></span>
-                                        <br>-->
-                                        <div class="col-lg-6" style="">
-                                        <span>Your Telephone*</span>
-                                        <span><input type="text" class="form-control text-feld" id="telephone" name="tel"></span>
-                                        <br>
-                                    </div>
-                                    </div>
+                <!--                        <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:60px;">
+                                            <center>                
+                                                <div class="fb-page" data-href="https://www.facebook.com/TRAVA-LINE-908235289261679/" data-tabs="timeline" data-height="200" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div> 
+                                            </center>
+                                        </div>-->
 
 
-<!--                                    <div class="col-lg-12">
-                                        <span>Your Telephone*</span>
-                                        <span><input type="text" class="form-control text-feld" id="telephone" name="tel"></span>
-                                        <br>
-                                    </div>-->
-                                    <div class="col-lg-12">
-                                        <span>Nationality*</span>
-                                        <span><input type="text" class="form-control text-feld" id="nationality" name="national"></span>
-                                        <br>
-                                    </div>
+
+            </div>
 
 
-                                    <div class="col-lg-12">
-                                        <span>Message*</span><br>
-                                        <span><textarea class="form-control text-feld" rows="4" name="msg"></textarea></span>
-                                        <br>
-                                    </div>
-                                    <div class="clear"></div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div style="background-color: #ccabea;height: 50px;width: 100%;">
+                    <h3 style="padding-left:35px;padding-top: 15px;">Send Us Message</h3>
+                </div>
 
+                <div class="clear"></div>
+                <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:50px;">
 
-                                    <div class="col-lg-12">
-                                        <label class="fa-btn btn-1 btn-1e">
-                                            <input class="btn btn-info" type="submit" value="Send" name="send"></label>
+                    <form action="" method="post">
+                        <fieldset class="the-fieldset">
+                            <!--<legend class="the-legend">Connect With Us</legend>-->
+                            <?php mailsend() ?>
+                            <div class="col-lg-12 col-md-12">
+                                <span>Your Name*</span>
+                                <span><input type="username" class="form-control text-feld" id="userName" name="name"/></span>
+                                <br>
+                            </div>
 
+                            <div class="col-lg-12 col-md-12">
+                                <div class="col-lg-6 col-md-6">
+                                    <div style="margin-left: -14px;">
+                                    <span>Your Email*</span>
+                                    <span><input type="email" class="form-control text-feld" id="inputEmail3" name="email"/></span>
                                     </div>
                                     <br>
-                                </fieldset>
-                            </form>
+                                    
+                                </div>
+                                <div class="col-lg-6 col-md-6" style="">
+                                     <div style="margin-left: -44px;">
+                                    <span>Your Telephone*</span>
+                                    <span><input type="text" style="width: 185px;border-radius:0px" class="form-control" id="telephone" name="tel"/></span>
+                                     </div>
+                                    <br>
+                                </div>
+                            </div>
 
 
-                        </div>
+                            <!--                                    <div class="col-lg-12">
+                                                                    <span>Your Telephone*</span>
+                                                                    <span><input type="text" class="form-control text-feld" id="telephone" name="tel"></span>
+                                                                    <br>
+                                                                </div>-->
+                            <div class="col-lg-12 col-md-12">
+                                <span>Nationality*</span>
+                                <span><input type="text" class="form-control text-feld" id="nationality" name="national"/></span>
+                                <br>
+                            </div>
+
+
+                            <div class="col-lg-12 col-md-12">
+                                <span>Message*</span><br>
+                                <span><textarea class="form-control text-feld" rows="4" name="msg"/></textarea></span>
+                                <br>
+                            </div>
+                            <div class="clear"></div>
+
+
+                            <div class="col-lg-12">
+                                <label class="fa-btn btn-1 btn-1e">
+                                    <input class="btn btn-info" type="submit" value="Send" name="send"/></label>
+
+                            </div>
+                            <br>
+                        </fieldset>
+                    </form>
+
+
+                </div>
 
 
 
-                    </div>
-<!--                </div>
-
-            </div>-->
+            </div>
+            <!--                </div>
+            
+                        </div>-->
         </div>
         <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
             <img src="image/bottom_head.png" style="width:100%;">
