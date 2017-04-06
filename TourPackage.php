@@ -448,15 +448,12 @@
             </div>
         </div>
         
-        <div class="container" style="margin-bottom:30px;">
+        <div class="container" style="">
    	<div class="row">
     	<div class="col-lg-12 col-md-12 col-sm-12">
-        	<div class="col-lg-8 col-md-8 col-sm-8 booking_2" style="margin-top:80px;">
-            	<div class="booking_bd">
-                <form action="#" method="post">
-                	<fieldset>
-                    <?php mailsend() ?>
-                    	<h4>PERSONAL INFORMATION</h4>
+            <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;margin-bottom: 15%;">
+            	
+<!--                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
                     	
                 			<div class="col-lg-6 col-md-6 col-sm-6">
 						    	<span>Full Name*</span>
@@ -483,10 +480,19 @@
 						    </div>
                             <div class="clear"></div>
                             <div class="clear"></div>
-                            <br>
-                       <h4>YOUR PACKAGE INFORMATION</h4>
+                            <br>-->
+                       <h3 style="">YOUR PACKAGE INFORMATION</h3>
                       
                        <h5>Duration</h5>
+                       <div class="container">
+                       <div class="row">
+                           
+                       <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 1px solid #cccccc;margin-left: 20px;">
+                           <div class="booking_bd">
+                <form action="#" method="post">
+                	<fieldset>
+                    <?php mailsend() ?>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="col-lg-6 col-md-6 col-sm-6">
 						    	<span>From</span>
 						    	<span><input id="ch_in" type="text" class="form-control textbd" name="checkin" placeholder="Check in"></span>
@@ -539,13 +545,31 @@
                              <div class="clear"></div>
                             <br>
                             
-                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>Number of Adults</span>
+                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						    	<span>Adults</span>
 						    	<span><input type="number" class="form-control textbd" id="noAdults" name="noAdults"></span>
 						    </div>
-                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>Number of Children</span>
+                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+						    	<span>Children</span>
 						    	<span><input type="number" class="form-control textbd" id="noChild" name="noChild"></span>
+						    </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						    	<span>How many rooms do you require?</span>
+                                                        <span><select class="styled_book" name="room_type" style="width: 100%;height: 30px;">
+								
+								<option value="Single Room">
+									Single Room
+								</option>
+								<option value="Double Room">
+									Double Room
+								</option>
+								<option value="Triple Room">
+									Triple Room
+								</option>
+								
+							</select></span>
+                            
+                            <!--<span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>-->
 						    </div>
                              <div class="clear"></div>
                             <div class="clear"></div>
@@ -558,7 +582,7 @@
                            <span><input type="radio" name="accommodation" value="Superior" checked>Superior</span>
                            <span><input type="radio" name="accommodation" value="Delux" checked>Delux</span>
 						    </div>
-                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<!--                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
 						    	<span>How many rooms do you require?</span>
 						    	<span><select class="styled_book" name="room_type">
 								
@@ -575,11 +599,31 @@
 							</select></span>
                             
                             <span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>
+						    </div>-->
+                                                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+						    	<span>Meal Plans</span>
+                                <br>
+                                <span><select class="styled_book" name="meal_plan" style="height: 30px;">
+								
+								<option value="Room Only">
+									Room Only
+								</option>
+								<option value="Bed and Breakfast">
+									Bed and Breakfast
+								</option>
+								<option value="Half Board">
+									Half Board
+								</option>
+                                <option value="Full Board">
+									Full Board
+								</option>
+								
+							</select></span>
 						    </div>
                             <div class="clear"></div>
                             <br>
                             
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+<!--                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
 						    	<span>Meal Plans</span>
                                 <br>
 						    	<span><select class="styled_book" name="meal_plan">
@@ -598,8 +642,8 @@
 								</option>
 								
 							</select></span>
-						    </div>
-                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+						    </div>-->
+                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						    	<span>Any Other Special Requests?</span>
 						    	<span><input type="text" class="form-control textbd" id="requests" name="request"></span>
 						    </div>
@@ -608,20 +652,61 @@
                             <div class="clear"></div>
                             
                             <br>
-						   <div class="col-lg-12">
+<!--						   <div class="col-lg-12">
                            		<label class="fa-btn btn-1 btn-1e">
                            		<input class="btn btn-info" type="submit" value="Send" name="send"></label>
 						   		
-						  </div>
+						  </div>-->
                           <br>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6" style="background-color: #87e2e7;">
+                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
+                    	
+                			<div class="col-lg-10 col-md-10 col-sm-10">
+						    	<span>Full Name*</span>
+						    	<span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
+						    </div>
+                            <div class="col-lg-10 col-md-10 col-sm-10">
+						    	<span>Email*</span>
+						    	<span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
+						    </div>
+						    
+                            <div class="clear"></div>
+                            <div class="clear"></div>
+                            <br>
+                            <div class="col-lg-10 col-md-10 col-sm-10">
+						    	<span>Phone Number*</span>
+                                
+                                <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
+						    	
+						    </div>
+                            
+                            <div class="col-lg-10 col-md-10 col-sm-10">
+						    	<span>Address</span>
+						    	<span><input type="text" class="form-control textbd" id="address" name="address"></span>
+						    </div>
+                            <div class="clear"></div>
+                            <div class="clear"></div>
+                            <br>
+                            <div class="col-lg-10 col-md-10 col-sm-10" style="margin-bottom: 3%;">
+                           		<!--<label class="fa-btn btn-1 btn-1e">-->
+                                        <input style="width: 40%;"class="btn btn-warning" type="submit" value="Send" name="send"></label>
+						   		
+						  </div>
+                            
+                                    
+                            </div>
                     </fieldset>
                 </form>
-            
+            </div>
+                          </div>
+                          </div>
+                
                 </div>
                
             </div>
             
-            <div class="col-lg-4 col-md-4 col-sm-4">
+<!--            <div class="col-lg-4 col-md-4 col-sm-4">
             
            
             <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:100px;">
@@ -629,7 +714,7 @@
             </div>
 
 			
-        </div>
+        </div>-->
         </div>
     	
    </div>
