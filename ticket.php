@@ -262,6 +262,7 @@ function mailsend() {
             .textbd:-ms-input-placeholder {
                 color: #333;
             }
+
         </style>
 
     </head>
@@ -297,79 +298,231 @@ function mailsend() {
         </div>-->
         <section>
             <div class="container">
-                <br>
-                <br>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="text-center" style="width: 100%; height: 40px; background-color: #0099ff;">
-                        <span><h2>COLOMBO TO SINGAPPUR</h2></span>
+
+                <div class="row">
+
+
+                    <center>
+                        <table style="width: 80%;"> 
+                            <tr>
+                                <td colspan="2">
+                                    <div class="text-center" style="width: 100%; height: 40px; background-color: #cccccc;">
+                                        <span style="margin-top: 5px;"><h2>COLOMBO TO SINGAPORE</h2></span>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <table style="border-collapse: collapse;width: 80%;"> 
+
+                            <tr style="border: 1px solid black;">
+                                <td style="width: 50%;border: 1px solid #0099ff;" class="secondtbltd">
+                            <center>
+                                <br>
+                                <strong style="color: red;">ECONOMY CLASS</strong> SEATS ON SELECTED DESTINATION<br>
+                                Return Air Tickets | Sri Lankan Airlines<br>
+                                FARES STARTING FROM
+                                <div></div>
+
+                                <table style="border-collapse: collapse;width: 80%;">
+                                    <tr style="border: 2px solid red;">
+                                        <td>
+                                    <center>
+                                        <h2>LKR 18,000 + Taxes*</h2>
+                                    </center>
+                                    </td>
+                                    </tr>
+                                </table>
+
+
+
+                                <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
+                                <br>
+                                <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
+                                <a href="booking.php" class="booknow_btn">Book Now!</a>
+                                <div style="height: 20px;"></div>
+                            </center>
+                            </td>
+                            <td style="width: 50%;border: 1px solid #0099ff;" class="secondtbltd">
+                            <center>
+                                <img  src="image/srilankan_airlines.jpg" style="width: 50%; height: auto; "/>
+                            </center>
+                            </td>
+                            </tr>
+                        </table>
+                    </center>
+
+
+
+
+
+
+
+
+
+
+
+
+                    <!--                <br>
+                                    <br>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="text-center" style="width: 100%; height: 40px; background-color: #0099ff;">
+                                            <span><h2>COLOMBO TO SINGAPPUR</h2></span>
+                                        </div>
+                    
+                                    </div>
+                                    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" >
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                                            <br>
+                                            <strong>ECONOMY CLASS</strong> SEATS ON SELECTED DESTINATION<br>
+                                            Return Air Tickets | Sri Lankan Airlines<br>
+                                            FARES STARTING FROM
+                                            <div><h2>LKR 18,000 + Taxes*</h2></div>
+                    
+                    
+                    
+                    
+                    
+                                            <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
+                                            <br>
+                                            <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
+                                            <a href="booking.php" class="booknow_btn">Book Now!</a>
+                    
+                    
+                    
+                    
+                    
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    
+                                            <img  src="image/srilankan_airlines.jpg" style="width: 70%; height: auto; float: right;"/>
+                                        </div>
+                                    </div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <!--<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-style: inset; margin-top: 20px;">-->
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 ">
+
+                        <strong>Terms & Conditions</strong><br>
+                        01. This offer is valid only for those who book their ticket till 30th september, 2016 only.<br>
+                        02. The outbound travels are all available 31st December, 2016 only.<br>
+                        03. This offer is valid only on srilankan Airlines operated flights.<br>
+                        04. This promotion is valid on <strong style="color: red;">Economy class</strong> booking only.<br>
+                        05. The travel should originate from srilanka.<br>
+                        06.Seats are limited and only available for those who book throughither<br>
+                        07. Tickets are non refundable<br>
+                        08. These offers are bound by the terms and condition of the respective partners established for any more information please visitable<br>
+
+
+                        <strong>Booking Valid :</strong> 30th September, 2016<br>
+                        <strong>Travel Valid :</strong> 31st December, 2016
+
+
                     </div>
-                    
-                </div>
-                <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" >
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-                        <br>
-                        <strong>ECONOMY CLASS</strong> SEATS ON SELECTED DESTINATION<br>
-                        Return Air Tickets | Sri Lankan Airlines<br>
-                        FARES STARTING FROM
-                        <div><h2>LKR 18,000 + Taxes*</h2></div>
-                        
-                        
-                       
-                    
-                    
-                        <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
-                   <br>
-                   <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
-                   <a href="booking.php" class="booknow_btn">Book Now!</a>
-                    
-                        
-                        
-                        
-                        
+
+
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <center>
+                            <table style="border-collapse: collapse;width: 40%; margin-top: 60px; margin-bottom: 50px;">
+                                <tr style="border: 2px solid red;">
+                                    <td>
+                                <center>
+                                    <div style="color: red; width: 100%; height: 100%"><h4><strong>Call Now Booking Help</strong></h4></div>
+
+                                </center>
+                                </td>
+                                </tr>
+                                <tr style="border: 2px solid red;">
+                                    <td>
+                                <center>
+                                    <div style="background-color: red; color: #ffffff; width: 100%; height: 100%">
+                                        <div style="font-size: 16px;"> Hotline : (+94) 77 600 6000<br></div>
+                                        Email: helpdisk@travaline.lk
+
+                                    </div>
+                                </center>
+                                </td>
+                                </tr>
+                            </table>
+
+
+
+
+
+
+                            <table style="margin-bottom: 50px;">
+                                <tr>
+                                    <td>
+
+
+
+                                        <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
+                                            <a href="index.php">Back</a>
+                                        </div>
+
+
+
+
+                                    </td>
+                                    <td style="width: 50px;"></td>
+                                    <td>
+
+
+
+                                        <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
+                                            <a href="booking.php">Book Now</a>
+                                        </div>
+
+
+
+
+                                    </td>
+                                </tr>
+                            </table>
+
+
+
+
+
+
+
+
+
+
+                        </center>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    
-                        <img  src="image/srilankan_airlines.jpg" style="width: 70%; height: auto; float: right;"/>
-                    </div>
+
+
+
+
+                    <div style="height: 100px;"></div>
+                    <!-- <hr style="border:solid 1px #c6dbee;"/>-->
+                    <br>
+                    <br>
                 </div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-style: inset; margin-top: 20px;">
-                
-                </div>
-                <br>
-                <br>
-                <br>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " style="margin-top: 50px;">
-                
-                    <strong>Terms & Conditions</strong><br>
-                    01. This offer is valid only for those who book their ticket till 30th september, 2016 only.<br>
-                    02. The outbound travels are all available 31st December, 2016 only.<br>
-                    03. This offer is valid only on srilankan Airlines operated flights.<br>
-                    04. This promotion is valid on Economy class booking only.<br>
-                    05. The travel should originate from srilanka.<br>
-                    06.Seats are limited and only available for those who book throughither<br>
-                    07. Tickets are non refundable<br>
-                    08. These offers are bound by the terms and condition of the respective partners established for any more information please visitable<br>
-                    
-                    
-                    <strong>Booking Valid :</strong> 30th September, 2016<br>
-                    <strong>Travel Valid :</strong> 31st December, 2016
-                    
-                    
-                </div>
-                <br>
-                <br>
-                <br>
             </div>
-            <!-- <hr style="border:solid 1px #c6dbee;"/>-->
-<br>
-                <br>
-            
+
 
         </section>
+
         <!--<hr style="border:solid 1px #909fb2; margin-top:0px;" class="hidden-xs"/>-->
-        
-        
-<?php include 'footer.php'; ?>
+
+
+        <?php include 'footer.php'; ?>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -377,23 +530,23 @@ function mailsend() {
         <script type="text/javascript" src="js/zebra_datepicker.js"></script>
 
         <script>
-                                            $(document).ready(function () {
+            $(document).ready(function () {
 
-                                                // assuming the controls you want to attach the plugin to 
-                                                // have the "datepicker" class set
-                                                $('input.datepicker').Zebra_DatePicker();
+                // assuming the controls you want to attach the plugin to 
+                // have the "datepicker" class set
+                $('input.datepicker').Zebra_DatePicker();
 
-                                            });
-                                            var $zdp = $('#element').data('Zebra_DatePicker');
+            });
+            var $zdp = $('#element').data('Zebra_DatePicker');
 
-                                            $('#ch_in').Zebra_DatePicker({
-                                                direction: true,
-                                                pair: $('#ch_out')
-                                            });
+            $('#ch_in').Zebra_DatePicker({
+                direction: true,
+                pair: $('#ch_out')
+            });
 
-                                            $('#ch_out').Zebra_DatePicker({
-                                                direction: 1
-                                            });
+            $('#ch_out').Zebra_DatePicker({
+                direction: 1
+            });
         </script>
         <script src="js/bootstrap.min.js"></script>   
     </body>

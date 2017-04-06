@@ -299,65 +299,118 @@ function mailsend() {
             <div class="container">
                 <br>
                 <br>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    
-                    
+
+
+                <center>
+                <div class="row">
+                    <table style="width: 80%;"> 
+                        <tr>
+                            <td colspan="2">
+                                <div class="text-center" style="width: 100%; height: 40px; background-color: #cccccc;">
+                                    <span style="margin-top: 5px;"><h2>Bangkok Tour (2 Nights/3 Days)</h2></span>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <table style="border-collapse: collapse;width: 80%;"> 
+
+                        <tr style="border: 1px solid black;">
+                            <td style="width: 50%;border: 1px solid #0099ff;" class="secondtbltd">
+                        <center>
+                            <br>
+                            Three starHotel Accomadation<br>
+                            Room Type : Superior Bed<br>
+                            <div style="color: red;"> 
+                               <h4> Cost per Person on Twin Sharing Basis</h4>
+                            <div><h2>LKR 14,900</h2></div>
+                            </div>
+                            <div></div>
+
+
+
+
+                            <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
+                            <br>
+                            <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
+                            <a href="booking.php" class="booknow_btn">Book Now!</a>
+                            <div style="height: 20px;"></div>
+                        </center>
+                        </td>
+                        <td style="width: 50%;border: 1px solid #0099ff;" class="secondtbltd">
+                        <center>
+                            <img  src="image/Bangkok_Tour.jpg" style="width: 80%; height: auto; "/>
+                        </center>
+                        </td>
+                        </tr>
+                    </table>
                 </div>
-                <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" >
+                </center>
+
+
+
+
+
+
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+
+                </div>
+<!--                <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10" >
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                         <div class="text-center" style="width: 100%; height: 40px; background-color: #000;">
                             <span><h2 style="color: #ffffff">Bangkok Tour (2 Nights/3 Days)</h2></span>
-                    </div>
+                        </div>
                         <br>
-                         Three starHotel Accomadation<br>
+                        Three starHotel Accomadation<br>
                         Room Type : Superior Bed<br>
                         Cost per Person on Twin Shareing Basis
                         <div><h2>LKR 14,900</h2></div>
-                        
-                        
-                       
-                    
-                    
+
+
+
+
+
                         <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
-                   <br>
-                   <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
-                   <a href="booking.php" class="booknow_btn">Book Now!</a>
-                    
-                        
-                        
-                        
-                        
+                        <br>
+                        <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
+                        <a href="booking.php" class="booknow_btn">Book Now!</a>
+
+
+
+
+
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    
+
                         <img  src="image/Bangkok_Tour.jpg" style="width: 100%; height: auto; float: right;"/>
                     </div>
-                </div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-style: inset; margin-top: 20px;">
-                
+                </div>-->
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+
                 </div>
                 <br>
                 <br>
                 <br>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " style="margin-top: 50px;">
-                
+
                     <strong>Package inclusions</strong><br>
                     * 02 Nights accommodation in bangkok with Breakfast.<br>
                     * Transfer on SIC: Airport to Hotel to Airport in Bangkok.<br>
                     * Princess Dinner Cruise.<br>
-                    
+
                     <br>
                     <br>
-                    
+
                     <strong>Package Exclution</strong><br>
                     * Air Fares.<br>
                     * Tourist Visa for Bangkok.<br>
                     * Surcharges if Applicable.<br>
-                    
-                     <br>
+
                     <br>
-                    
-                    
+                    <br>
+
+
                     <strong>Terms & Conditions</strong><br>
                     * All Roomtype (double or twin bed) is on request basis subject to availability upon check-in.<br>
                     * Seats are Subject to Availability.<br>
@@ -366,22 +419,92 @@ function mailsend() {
                     * Hotel Check-In Time 14:00 Hrs and Check-Out Time 12:00Hrs.<br>
                     * Full Payment Should be Upfront.<br>
                     * All flynow.lk Terms & Conditions Apply.<br>
-                    
+
                 </div>
                 <br>
                 <br>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <center>
+                        <table style="border-collapse: collapse;width: 40%; margin-top: 60px; margin-bottom: 50px;">
+                            <tr style="border: 2px solid red;">
+                                <td>
+                            <center>
+                                <div style="color: red; width: 100%; height: 100%"><h4><strong>Call Now Booking Help</strong></h4></div>
+
+                            </center>
+                            </td>
+                            </tr>
+                            <tr style="border: 2px solid red;">
+                                <td>
+                            <center>
+                                <div style="background-color: red; color: #ffffff; width: 100%; height: 100%">
+                                    <div style="font-size: 16px;"> Hotline : (+94) 77 600 6000<br></div>
+                                    Email: helpdisk@travaline.lk
+
+                                </div>
+                            </center>
+                            </td>
+                            </tr>
+                        </table>
+
+
+
+
+
+
+                        <table style="margin-bottom: 50px;">
+                            <tr>
+                                <td>
+
+
+
+                                    <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
+                                        <a href="index.php">Back</a>
+                                    </div>
+
+
+
+
+                                </td>
+                                <td style="width: 50px;"></td>
+                                <td>
+
+
+
+                                    <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
+                                        <a href="booking.php">Book Now</a>
+                                    </div>
+
+
+
+
+                                </td>
+                            </tr>
+                        </table>
+
+
+
+
+
+
+
+
+
+
+                    </center>
+                </div>
                 <br>
             </div>
             <!-- <hr style="border:solid 1px #c6dbee;"/>-->
-<br>
-                <br>
-            
+            <br>
+            <br>
+
 
         </section>
         <!--<hr style="border:solid 1px #909fb2; margin-top:0px;" class="hidden-xs"/>-->
-        
-        
-<?php include 'footer.php'; ?>
+
+
+        <?php include 'footer.php'; ?>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -389,23 +512,23 @@ function mailsend() {
         <script type="text/javascript" src="js/zebra_datepicker.js"></script>
 
         <script>
-                                            $(document).ready(function () {
+            $(document).ready(function () {
 
-                                                // assuming the controls you want to attach the plugin to 
-                                                // have the "datepicker" class set
-                                                $('input.datepicker').Zebra_DatePicker();
+                // assuming the controls you want to attach the plugin to 
+                // have the "datepicker" class set
+                $('input.datepicker').Zebra_DatePicker();
 
-                                            });
-                                            var $zdp = $('#element').data('Zebra_DatePicker');
+            });
+            var $zdp = $('#element').data('Zebra_DatePicker');
 
-                                            $('#ch_in').Zebra_DatePicker({
-                                                direction: true,
-                                                pair: $('#ch_out')
-                                            });
+            $('#ch_in').Zebra_DatePicker({
+                direction: true,
+                pair: $('#ch_out')
+            });
 
-                                            $('#ch_out').Zebra_DatePicker({
-                                                direction: 1
-                                            });
+            $('#ch_out').Zebra_DatePicker({
+                direction: 1
+            });
         </script>
         <script src="js/bootstrap.min.js"></script>   
     </body>
