@@ -59,12 +59,13 @@
 				
                     <div >
                   
-                        <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
                       <!--<p><img src="image/c1.png" height="30%" width="30%" /> <img src="image/c2.png" height="30%" width="30%" /> </p>-->
                  </div>
                    <div style="width: 200px; height: 90px;">
                        <img src="data1/images/footer-social.png" width="200" height="90"/>
                    </div>
+                     <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
+                      
                     <!--
                     <div class="footer_head">
                     	<h3>FOLLOW US!</h3>
