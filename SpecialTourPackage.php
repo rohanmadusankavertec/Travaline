@@ -318,7 +318,7 @@ function mailsend() {
                             <td style="width: 50%;border: 1px solid #0099ff;" class="secondtbltd">
                         <center>
                             <br>
-                            Three starHotel Accomadation<br>
+                            <strong style="color: #0099ff;">Three starHotel Accomadation</strong><br>
                             Room Type : Superior Bed<br>
                             <div style="color: red;"> 
                                <h4> Cost per Person on Twin Sharing Basis</h4>
@@ -389,9 +389,6 @@ function mailsend() {
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
 
                 </div>
-                <br>
-                <br>
-                <br>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " style="margin-top: 50px;">
 
                     <strong>Package inclusions</strong><br>

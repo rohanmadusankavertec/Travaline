@@ -414,7 +414,7 @@ function mailsend() {
 
                     <!--<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-style: inset; margin-top: 20px;">-->
 
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 ">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " style="margin-top: 50px; ">
 
                         <strong>Terms & Conditions</strong><br>
                         01. This offer is valid only for those who book their ticket till 30th september, 2016 only.<br>
