@@ -332,7 +332,7 @@ function mailsend() {
                             <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
                             <br>
                             <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
-                            <a href="booking.php" class="booknow_btn">Book Now!</a>
+                            <a href="TourPackage.php?page=tour" class="booknow_btn">Book Now!</a>
                             <div style="height: 20px;"></div>
                         </center>
                         </td>
@@ -469,7 +469,7 @@ function mailsend() {
 
 
                                     <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
-                                        <a href="booking.php">Book Now</a>
+                                        <a href="TourPackage.php?page=tour">Book Now</a>
                                     </div>
 
 
