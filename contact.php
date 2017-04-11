@@ -170,11 +170,19 @@ function mailsend() {
 
         <!--        <div class="container" style="margin-bottom:100px;">
                     <div class="row">-->
-        <div class="col-lg-12 col-md-12 col-sm-12" style="margin-bottom:100px;">
+        
+        <div class="col-lg-10 col-md-10 col-sm-10 col-lg-offset-1 col-md-offset-1" style="margin-bottom:100px; margin-top: 20px;">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                <div style="background-color: #ccabea;height: 50px;width: 100%;">
+<!--                <div style="background-color: #cccccc;height: 50px;width: 100%;">
                     <h3 style="padding-left:35px;padding-top: 15px;">How To Find Us</h3>
-                </div>
+                </div>-->
+                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                            <tr>
+                                <td>
+                                    <h4 style="margin-left: 50px;">How To Find Us</h4>
+                                </td>
+                            </tr>
+                        </table>
                 <div class="map" style="margin-top: 12%;">
                     <!--<h3 style="padding-left:35px;">How To Find Us</h3>-->
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.853429654679!
@@ -196,10 +204,16 @@ function mailsend() {
 
 
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                <div style="background-color: #ccabea;height: 50px;width: 100%;">
+<!--                <div style="background-color: #cccccc;height: 50px;width: 100%;">
                     <h3 style="padding-left:35px;padding-top: 15px;">Send Us Message</h3>
-                </div>
-
+                </div>-->
+                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                            <tr>
+                                <td>
+                                    <h4 style="margin-left: 50px;">Send Us Message</h4>
+                                </td>
+                            </tr>
+                        </table>
                 <div class="clear"></div>
                 <div class="col-lg-12 col-md-12 col-sm-12 booking" style="margin-top:50px;">
 
