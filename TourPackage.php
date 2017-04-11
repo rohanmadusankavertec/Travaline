@@ -217,11 +217,11 @@ function mailsend() {
 
 
 
-        <div class="container" style="margin-top:30px; margin-bottom:10px;">
+        <div class="container" style="margin-top:30px;">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <div class="main_top">
+                        <div class="main_top" style="margin-top: 50px;">
                             <h4 style="padding-left:10px;">Destination Management & Leisure Products Services</h4>
                             <p class="para">Our range of Destination Management & Leisure Products Services include:Representing Tour Operators worldwide, Handling Individual Travelers, Group inclusive Tours, Handling/ Servicing VIP’s, Special Interest Tours, Excursions / Cruises / Air taxi Services, Versatile Tour packages, Transportation, Hotel & Resort Reservation.</p>
                         </div>
@@ -231,7 +231,7 @@ function mailsend() {
                     <div class="col-lg-4 col-md-4 col-sm-4">
 
                         <div class="col-lg-12 col-md-12 col-sm-12 ">
-                            <div class="second_slide">
+                            <div class="second_slide" style="height: 250px;">
                                 <iframe src="slide2.html" style="width:100%;height:250px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
                             </div>
                         </div>
@@ -259,7 +259,7 @@ function mailsend() {
 
 
                             <!--<h4 style="background-color: #cccccc">Tickets Offers</h4>-->
-                            <div style="background-color:#cccccc; ">
+                            <div style="background-color:#cccccc; margin-top: -50px;">
                                 <h3 style="margin-left: 50px; height: 40px;">Tour Package</h3>
                             </div>   
                             <div class="clear"></div>

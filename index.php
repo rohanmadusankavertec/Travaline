@@ -107,7 +107,7 @@
 
 
 
-        <div class="container" style="margin-top:30px; margin-bottom:10px;">
+        <div class="container" style="">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
 
@@ -136,7 +136,7 @@
 
 
                         <div class="col-lg-12 col-md-12 col-sm-12 ">
-                            <div class="second_slide">
+                            <div class="second_slide" style="height: 215px;">
                                 
                                 
                                 
@@ -169,11 +169,6 @@
                                 </td>
                             </tr>
                         </table>
-
-
-
-                        
-
                     </div>
 
 

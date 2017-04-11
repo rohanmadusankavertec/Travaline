@@ -46,7 +46,10 @@
                     <div class="footer_cont">
                     <p>Mobile : (+94) 777 58 2222</p>
                     <p>Tell : (+94) 354 93 4014</p> 
+                    
                     </div>
+                   <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
+                     
                </div>
                <div class="col-lg-4 col-md-4 col-sm-4">
                		<div class="footer_head">
@@ -64,7 +67,6 @@
                    <div style="width: 200px; height: 90px;">
                        <img src="data1/images/footer-social.png" width="200" height="90"/>
                    </div>
-                     <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
                       
                     <!--
                     <div class="footer_head">
