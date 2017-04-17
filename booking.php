@@ -157,7 +157,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Tourism | Book Now</title>
+<title>Trava Line | Book Now</title>
 
 <link rel="stylesheet" href="css/style.css">
 

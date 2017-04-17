@@ -120,7 +120,7 @@ if (isset($_POST) && !empty($_POST)){
 <html>
 <head>
 <meta charset="utf-8">
-<title>Tourism | Careers</title>
+<title>Trava Line | Careers</title>
 
 <link rel="stylesheet" href="css/style.css">
 

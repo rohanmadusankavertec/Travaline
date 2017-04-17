@@ -198,7 +198,7 @@ function mailsend() {
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tourism | Packages</title>
+        <title>Trava Line | Packages</title>
 
         <link rel="stylesheet" href="css/style.css">
 

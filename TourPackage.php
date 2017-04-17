@@ -1,125 +1,111 @@
 <!doctype html>
 <?php
-	function mailsend(){
-	if(isset($_POST['send'])){
-		
-		if(isset($_POST['fname'])){
-			$fname = $_POST['fname'];
-			
-		}else{
-			 $fname ="";
-			}
-		
-		if(isset($_POST['phone'])){
-				$phone = $_POST['phone'];
-			
-		}else{
-			 $phone ="";
-			}
-			
-		if(isset($_POST['email'])){
-			$email = $_POST['email'];
-			
-		}else{
-			 $email ="";
-			}
-		
-		if(isset($_POST['address'])){
-			 $address = $_POST['address'];
-			
-		}else{
-			 $address ="";
-			}
-		
-		if(isset($_POST['checkin'])){
-			$checkin = $_POST['checkin'];
-			
-		}else{
-			 $checkin ="";
-			}
-			
-		if(isset($_POST['checkout'])){
-			 $checkout = $_POST['checkout'];
-			
-		}else{
-			 $checkout ="";
-			}
-		if(isset($_POST['excursions'])){
-			$excursions = $_POST['excursions'];
-			
-		}else{
-			 $excursions ="";
-			}
-		if(isset($_POST['destination'])){
-			$destination = $_POST['destination'];
-			
-		}else{
-			 $destination ="";
-			}
-		if(isset($_POST['noAdults'])){
-			$noAdults = $_POST['noAdults'];
-			
-		}else{
-			 $noAdults ="";
-			}
-		
-		if(isset($_POST['noChild'])){
-			 $noChild = $_POST['noChild'];
-			
-		}else{
-			 $noChild ="";
-			}
-		if(isset($_POST['accommodation'])){
-			 $accommodation = $_POST['accommodation'];
-			
-		}else{
-			 $accommodation ="";
-			}
-		if(isset($_POST['room_type'])){
-			 $room_type = $_POST['room_type'];
-			
-		}else{
-			 $room_type ="";
-			}
-		if(isset($_POST['no_room'])){
-			 $no_room = $_POST['no_room'];
-			
-		}else{
-			 $no_room ="";
-			}
-		if(isset($_POST['meal_plan'])){
-			 $meal_plan = $_POST['meal_plan'];
-			
-		}else{
-			 $meal_plan ="";
-			}
-		if(isset($_POST['request'])){
-			 $request = $_POST['request'];
-			
-		}else{
-			 $request ="";
-			}
-		
-		
-    if(empty($fname) || empty($email) || empty($phone) || empty($checkin) || empty($checkout) || empty($noAdults) || empty($accommodation)  || empty($room_type) || empty($no_room)){
-       
-        echo'<p style="color:#f26522;"> * All Fields are Require </p>';
-        }else{
-        $to   = "travaline@yahoo.com";
-        $from = $email;
-		
-		$subject = "TravaLine - Tour Booking";
-         
-        $headers = "From: " . strip_tags($email) . "\r\n";
-        $headers .= "Reply-To: ". strip_tags($email) . "\r\n";
-        $headers .= "MIME-Version: 1.0\r\n";
-        $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-        $message = '<html><body>';
-         
-        $message .= '<table width="100%"; rules="all" cellpadding="10">';
-         
-        $message .= "<tr>
+function mailsend() {
+    if (isset($_POST['send'])) {
+
+        if (isset($_POST['fname'])) {
+            $fname = $_POST['fname'];
+        } else {
+            $fname = "";
+        }
+
+        if (isset($_POST['phone'])) {
+            $phone = $_POST['phone'];
+        } else {
+            $phone = "";
+        }
+
+        if (isset($_POST['email'])) {
+            $email = $_POST['email'];
+        } else {
+            $email = "";
+        }
+
+        if (isset($_POST['address'])) {
+            $address = $_POST['address'];
+        } else {
+            $address = "";
+        }
+
+        if (isset($_POST['checkin'])) {
+            $checkin = $_POST['checkin'];
+        } else {
+            $checkin = "";
+        }
+
+        if (isset($_POST['checkout'])) {
+            $checkout = $_POST['checkout'];
+        } else {
+            $checkout = "";
+        }
+        if (isset($_POST['excursions'])) {
+            $excursions = $_POST['excursions'];
+        } else {
+            $excursions = "";
+        }
+        if (isset($_POST['destination'])) {
+            $destination = $_POST['destination'];
+        } else {
+            $destination = "";
+        }
+        if (isset($_POST['noAdults'])) {
+            $noAdults = $_POST['noAdults'];
+        } else {
+            $noAdults = "";
+        }
+
+        if (isset($_POST['noChild'])) {
+            $noChild = $_POST['noChild'];
+        } else {
+            $noChild = "";
+        }
+        if (isset($_POST['accommodation'])) {
+            $accommodation = $_POST['accommodation'];
+        } else {
+            $accommodation = "";
+        }
+        if (isset($_POST['room_type'])) {
+            $room_type = $_POST['room_type'];
+        } else {
+            $room_type = "";
+        }
+        if (isset($_POST['no_room'])) {
+            $no_room = $_POST['no_room'];
+        } else {
+            $no_room = "";
+        }
+        if (isset($_POST['meal_plan'])) {
+            $meal_plan = $_POST['meal_plan'];
+        } else {
+            $meal_plan = "";
+        }
+        if (isset($_POST['request'])) {
+            $request = $_POST['request'];
+        } else {
+            $request = "";
+        }
+
+
+        if (empty($fname) || empty($email) || empty($phone) || empty($checkin) || empty($checkout) || empty($noAdults) || empty($accommodation) || empty($room_type) || empty($no_room)) {
+
+            echo'<p style="color:#f26522;"> * All Fields are Require </p>';
+        } else {
+            $to = "travaline@yahoo.com";
+            $from = $email;
+
+            $subject = "TravaLine - Tour Booking";
+
+            $headers = "From: " . strip_tags($email) . "\r\n";
+            $headers .= "Reply-To: " . strip_tags($email) . "\r\n";
+            $headers .= "MIME-Version: 1.0\r\n";
+            $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+
+            $message = '<html><body>';
+
+            $message .= '<table width="100%"; rules="all" cellpadding="10">';
+
+            $message .= "<tr>
                         <td colspan=2>
                         Dear Sir,
                         <br /> <hr/>
@@ -136,28 +122,27 @@
 						Any Other Special Requests : <br>
 						$request
                         </td></tr>";
-				
-         
-        $message .= "<tr><td colspan=2 font='colr:#999999;'></td></tr>";
-         
-        $message .= "</table>";
-         
-        $message .= "</body></html>";
-       
-        mail($to, $subject, $message, $headers);
-           
-        echo'<p style="color:#f26522;"> * Message Sent 
-		</p>';   
-        }
-	  }
-    }
 
-	?>
+
+            $message .= "<tr><td colspan=2 font='colr:#999999;'></td></tr>";
+
+            $message .= "</table>";
+
+            $message .= "</body></html>";
+
+            mail($to, $subject, $message, $headers);
+
+            echo'<p style="color:#f26522;"> * Message Sent 
+		</p>';
+        }
+    }
+}
+?>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tourism | Tourpack</title>
-
+        <title>Trava Line | Tourpack</title>
+        <link rel="stylesheet" href="css/addform.css">
         <link rel="stylesheet" href="css/style.css">
 
         <!-- Latest compiled and minified CSS -->
@@ -215,7 +200,7 @@
 
 <?php include 'navigation.php'; ?>
             <div class="container head_about">
-                <h1>Tourpackages</h1>
+                <h1>Tour packages</h1>
                 <h5>Pick Your Holiday</h5>
             </div>
 
@@ -232,11 +217,11 @@
 
 
 
-        <div class="container" style="margin-top:30px; margin-bottom:10px;">
+        <div class="container" style="margin-top:30px;">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="col-lg-8 col-md-8 col-sm-8">
-                        <div class="main_top">
+                        <div class="main_top" style="margin-top: 50px;">
                             <h4 style="padding-left:10px;">Destination Management & Leisure Products Services</h4>
                             <p class="para">Our range of Destination Management & Leisure Products Services include:Representing Tour Operators worldwide, Handling Individual Travelers, Group inclusive Tours, Handling/ Servicing VIP’s, Special Interest Tours, Excursions / Cruises / Air taxi Services, Versatile Tour packages, Transportation, Hotel & Resort Reservation.</p>
                         </div>
@@ -246,8 +231,8 @@
                     <div class="col-lg-4 col-md-4 col-sm-4">
 
                         <div class="col-lg-12 col-md-12 col-sm-12 ">
-                            <div class="second_slide">
-                                <iframe src="slider.html" style="width:100%;height:210px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+                            <div class="second_slide" style="height: 250px;">
+                                <iframe src="slide2.html" style="width:100%;height:250px; max-width:100%;overflow-y:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
                             </div>
                         </div>
 
@@ -274,19 +259,25 @@
 
 
                             <!--<h4 style="background-color: #cccccc">Tickets Offers</h4>-->
-                            <div style="background-color:#cccccc; ">
+                            <div style="background-color:#cccccc; margin-top: -50px;">
                                 <h3 style="margin-left: 50px; height: 40px;">Tour Package</h3>
                             </div>   
                             <div class="clear"></div>
 
-                            <div class="controls pull-right hidden-xs">
-                                <a class="left fa fa-chevron-left btn btn" href="#carousel-example1"
-                                   data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#carousel-example1"
-                                   data-slide="next"></a>
+                            <div class="row">
+
+                                <div class="col-md-3" style="float: right;">
+                                    <!-- Controls -->
+                                    <div class="controls pull-right">
+                                        <a class="left fa fa-chevron-left btn btn" href="#slder"
+                                           data-slide="prev"></a><a class="right fa fa-chevron-right btn" href="#slder"
+                                           data-slide="next"></a>
+                                    </div>
+                                </div>
                             </div>
 
 
-                            <div id="carousel-example1" class="carousel slide hidden-xs" data-ride="carousel">
+                            <div id="slder" class="carousel slide hidden-xs" data-ride="carousel">
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
@@ -447,53 +438,53 @@
                 </div>
             </div>
         </div>
-        
-        <div class="container" style="">
-   	<div class="row">
-    	<div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;margin-bottom: 15%;">
-            	
-<!--                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
-                    	
-                			<div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Full Name*</span>
-						    	<span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
-						    </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Email*</span>
-						    	<span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
-						    </div>
-						    
-                            <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Phone Number*</span>
-                                
-                                <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
-						    	
-						    </div>
-                            
-						    <div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Address</span>
-						    	<span><input type="text" class="form-control textbd" id="address" name="address"></span>
-						    </div>
-                            <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>-->
-                       <h3 style="">YOUR PACKAGE INFORMATION</h3>
-                      
-                       <h5>Duration</h5>
-                       <div class="container">
-                       <div class="row">
-                           
-                       <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 1px solid #cccccc;margin-left: 20px;">
-                           <div class="booking_bd">
-                <form action="#" method="post">
-                	<fieldset>
-                    <?php mailsend() ?>
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
+
+        <div class="container" style="margin-bottom: 50px;">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;">
+
+                        <!--                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
+                                                
+                                                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                                                                <span>Full Name*</span>
+                                                                                <span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
+                                                                            </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                                                                <span>Email*</span>
+                                                                                <span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
+                                                                            </div>
+                                                                            
+                                                    <div class="clear"></div>
+                                                    <div class="clear"></div>
+                                                    <br>
+                                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                                                                <span>Phone Number*</span>
+                                                        
+                                                        <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
+                                                                                
+                                                                            </div>
+                                                    
+                                                                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                                                                <span>Address</span>
+                                                                                <span><input type="text" class="form-control textbd" id="address" name="address"></span>
+                                                                            </div>
+                                                    <div class="clear"></div>
+                                                    <div class="clear"></div>
+                                                    <br>-->
+                        <h3 style="">YOUR PACKAGE INFORMATION</h3>
+
+                        <h5>Duration</h5>
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 2px solid #cccccc;margin-left: 20px;">
+                                    <div class="booking_bd" style="margin-top: 35px;">
+                                        <form action="#" method="post">
+                                            <fieldset>
+<?php mailsend() ?>
+                                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                                    <div class="col-lg-6 col-md-6 col-sm-6">
 						    	<span>From</span>
 						    	<span><input id="ch_in" type="text" class="form-control textbd" name="checkin" placeholder="Check in"></span>
 						    </div>
@@ -502,228 +493,227 @@
 						    	<span><input id="ch_out" type="text" class="form-control textbd" name="checkout" placeholder="Check out"></span>
 						    </div>
                             <div class="clear"></div>
-                            	<!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>Room Type*</span>
-						    	<span><select class="styled_book">
-								<option></option>
-								<option>
-									Single
-								</option>
-								<option>
-									Double
-								</option>
-								<option>
-									Luxury
-								</option>
-								
-							</select></span>
-						    </div>-->
-						    <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>No of Rooms*</span>
-						    	<span><select class="styled_book">
-								<option></option>
-								<option>1</option>
-								<option>2</option>
-								<option>3</option>
-								<option>4</option>
-								<option>5+</option>
-								
-							</select></span>
-						    </div>-->
-                             <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
-                             <div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Preferred Excursions</span>
-						    	<span><input type="text" class="form-control textbd" id="excursions" name="excursions"></span>
-						    </div>
-                             <div class="col-lg-6 col-md-6 col-sm-6">
-						    	<span>Preferred Destinations</span>
-						    	<span><input type="text" class="form-control textbd" id="destinations" name="destination"></span>
-						    </div>
-                            
-                             <div class="clear"></div>
-                            <br>
-                            
-                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-						    	<span>Adults</span>
-						    	<span><input type="number" class="form-control textbd" id="noAdults" name="noAdults"></span>
-						    </div>
-                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-						    	<span>Children</span>
-						    	<span><input type="number" class="form-control textbd" id="noChild" name="noChild"></span>
-						    </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>How many rooms do you require?</span>
-                                                        <span><select class="styled_book" name="room_type" style="width: 100%;height: 30px;">
-								
-								<option value="Single Room">
-									Single Room
-								</option>
-								<option value="Double Room">
-									Double Room
-								</option>
-								<option value="Triple Room">
-									Triple Room
-								</option>
-								
-							</select></span>
-                            
-                            <!--<span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>-->
-						    </div>
-                             <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
-                            
-                             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-						    	<span>Type of Accommodations</span>
-                                <br>
-						   <span><input type="radio" name="accommodation" value="Standard" checked>Standard</span>
-                           <span><input type="radio" name="accommodation" value="Superior" checked>Superior</span>
-                           <span><input type="radio" name="accommodation" value="Delux" checked>Delux</span>
-						    </div>
-<!--                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-						    	<span>How many rooms do you require?</span>
-						    	<span><select class="styled_book" name="room_type">
-								
-								<option value="Single Room">
-									Single Room
-								</option>
-								<option value="Double Room">
-									Double Room
-								</option>
-								<option value="Triple Room">
-									Triple Room
-								</option>
-								
-							</select></span>
-                            
-                            <span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>
-						    </div>-->
-                                                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
-						    	<span>Meal Plans</span>
-                                <br>
-                                <span><select class="styled_book" name="meal_plan" style="height: 30px;">
-								
-								<option value="Room Only">
-									Room Only
-								</option>
-								<option value="Bed and Breakfast">
-									Bed and Breakfast
-								</option>
-								<option value="Half Board">
-									Half Board
-								</option>
-                                <option value="Full Board">
-									Full Board
-								</option>
-								
-							</select></span>
-						    </div>
-                            <div class="clear"></div>
-                            <br>
-                            
-<!--                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-						    	<span>Meal Plans</span>
-                                <br>
-						    	<span><select class="styled_book" name="meal_plan">
-								
-								<option value="Room Only">
-									Room Only
-								</option>
-								<option value="Bed and Breakfast">
-									Bed and Breakfast
-								</option>
-								<option value="Half Board">
-									Half Board
-								</option>
-                                <option value="Full Board">
-									Full Board
-								</option>
-								
-							</select></span>
-						    </div>-->
-                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						    	<span>Any Other Special Requests?</span>
-						    	<span><input type="text" class="form-control textbd" id="requests" name="request"></span>
-						    </div>
-                          
-						   
-                            <div class="clear"></div>
-                            
-                            <br>
-<!--						   <div class="col-lg-12">
-                           		<label class="fa-btn btn-1 btn-1e">
-                           		<input class="btn btn-info" type="submit" value="Send" name="send"></label>
-						   		
-						  </div>-->
-                          <br>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6" style="background-color: #87e2e7;">
-                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
-                    	
-                			<div class="col-lg-10 col-md-10 col-sm-10">
-						    	<span>Full Name*</span>
-						    	<span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
-						    </div>
-                            <div class="col-lg-10 col-md-10 col-sm-10">
-						    	<span>Email*</span>
-						    	<span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
-						    </div>
-						    
-                            <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
-                            <div class="col-lg-10 col-md-10 col-sm-10">
-						    	<span>Phone Number*</span>
-                                
-                                <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
-						    	
-						    </div>
-                            
-                            <div class="col-lg-10 col-md-10 col-sm-10">
-						    	<span>Address</span>
-						    	<span><input type="text" class="form-control textbd" id="address" name="address"></span>
-						    </div>
-                            <div class="clear"></div>
-                            <div class="clear"></div>
-                            <br>
-                            <div class="col-lg-10 col-md-10 col-sm-10" style="margin-bottom: 3%;">
-                           		<!--<label class="fa-btn btn-1 btn-1e">-->
-                                        <input style="width: 40%;"class="btn btn-warning" type="submit" value="Send" name="send"></label>
-						   		
-						  </div>
-                            
-                                    
-                            </div>
-                    </fieldset>
-                </form>
-            </div>
-                          </div>
-                          </div>
-                
-                </div>
-               
-            </div>
-            
-<!--            <div class="col-lg-4 col-md-4 col-sm-4">
-            
-           
-            <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:100px;">
-            	<img src="image/ticketing_bottom.jpg" style="width:100%;"/>
-            </div>
+                                                    <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                                            <span>Room Type*</span>
+                                                                            <span><select class="styled_book">
+                                                                                    <option></option>
+                                                                                    <option>
+                                                                                            Single
+                                                                                    </option>
+                                                                                    <option>
+                                                                                            Double
+                                                                                    </option>
+                                                                                    <option>
+                                                                                            Luxury
+                                                                                    </option>
+                                                                                    
+                                                                            </select></span>
+                                                                        </div>-->
+                                                    <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                        <span>No of Rooms*</span>
+                                                        <span><select class="styled_book">
+                                                                <option></option>
+                                                                <option>1</option>
+                                                                <option>2</option>
+                                                                <option>3</option>
+                                                                <option>4</option>
+                                                                <option>5+</option>
+                                                                
+                                                        </select></span>
+                                                    </div>-->
+                                                    <div class="clear"></div>
+                                                    <div class="clear"></div>
+                                                    <br>
+                                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                                        <span>Preferred Excursions</span>
+                                                        <span><input type="text" class="form-control textbd" id="excursions" name="excursions"></span>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                                        <span>Preferred Destinations</span>
+                                                        <span><input type="text" class="form-control textbd" id="destinations" name="destination"></span>
+                                                    </div>
 
-			
-        </div>-->
+                                                    <div class="clear"></div>
+                                                    <br>
+
+                                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                        <span>Adults</span>
+                                                        <span><input type="number" class="form-control textbd" id="noAdults" name="noAdults"></span>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                        <span>Children</span>
+                                                        <span><input type="number" class="form-control textbd" id="noChild" name="noChild"></span>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                        <span>How many rooms do you require?</span>
+                                                        <span><select class="styled_book" name="room_type" style="width: 100%;height: 30px;">
+
+                                                                <option value="Single Room">
+                                                                    Single Room
+                                                                </option>
+                                                                <option value="Double Room">
+                                                                    Double Room
+                                                                </option>
+                                                                <option value="Triple Room">
+                                                                    Triple Room
+                                                                </option>
+
+                                                            </select></span>
+
+<!--<span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>-->
+                                                    </div>
+                                                    <div class="clear"></div>
+                                                    <div class="clear"></div>
+                                                    <br>
+
+                                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                        <span>Type of Accommodations</span>
+                                                        <br>
+                                                        <span><input type="radio" name="accommodation" value="Standard" checked>Standard</span>
+                                                        <span><input type="radio" name="accommodation" value="Superior" checked>Superior</span>
+                                                        <span><input type="radio" name="accommodation" value="Delux" checked>Delux</span>
+                                                    </div>
+                                                    <!--                             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                                                                            <span>How many rooms do you require?</span>
+                                                                                                            <span><select class="styled_book" name="room_type">
+                                                                                                                    
+                                                                                                                    <option value="Single Room">
+                                                                                                                            Single Room
+                                                                                                                    </option>
+                                                                                                                    <option value="Double Room">
+                                                                                                                            Double Room
+                                                                                                                    </option>
+                                                                                                                    <option value="Triple Room">
+                                                                                                                            Triple Room
+                                                                                                                    </option>
+                                                                                                                    
+                                                                                                            </select></span>
+                                                                                
+                                                                                <span><input type="number" class="form-contro" id="noRooms" placeholder="Number of rooms" name="no_room"></span>
+                                                                                                        </div>-->
+                                                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+                                                        <span>Meal Plans</span>
+                                                        <br>
+                                                        <span><select class="styled_book" name="meal_plan" style="height: 30px;">
+
+                                                                <option value="Room Only">
+                                                                    Room Only
+                                                                </option>
+                                                                <option value="Bed and Breakfast">
+                                                                    Bed and Breakfast
+                                                                </option>
+                                                                <option value="Half Board">
+                                                                    Half Board
+                                                                </option>
+                                                                <option value="Full Board">
+                                                                    Full Board
+                                                                </option>
+
+                                                            </select></span>
+                                                    </div>
+                                                    <div class="clear"></div>
+                                                    <br>
+
+                                                    <!--                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                                                                            <span>Meal Plans</span>
+                                                                                    <br>
+                                                                                                            <span><select class="styled_book" name="meal_plan">
+                                                                                                                    
+                                                                                                                    <option value="Room Only">
+                                                                                                                            Room Only
+                                                                                                                    </option>
+                                                                                                                    <option value="Bed and Breakfast">
+                                                                                                                            Bed and Breakfast
+                                                                                                                    </option>
+                                                                                                                    <option value="Half Board">
+                                                                                                                            Half Board
+                                                                                                                    </option>
+                                                                                    <option value="Full Board">
+                                                                                                                            Full Board
+                                                                                                                    </option>
+                                                                                                                    
+                                                                                                            </select></span>
+                                                                                                        </div>-->
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                        <span>Any Other Special Requests?</span>
+                                                        <span><input type="text" class="form-control textbd" id="requests" name="request"></span>
+                                                    </div>
+
+
+                                                    <div class="clear"></div>
+
+                                                    <br>
+                                                    <!--						   <div class="col-lg-12">
+                                                                                            <label class="fa-btn btn-1 btn-1e">
+                                                                                            <input class="btn btn-info" type="submit" value="Send" name="send"></label>
+                                                                                                                    
+                                                                                                      </div>-->
+                                                    <br>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6" style="background-color: #87e2e7;">
+                                                    <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
+
+                                                    <div class="col-lg-10 col-md-10 col-sm-10">
+                                                        <span>Full Name*</span>
+                                                        <span><input type="firstname" class="form-control textbd" id="firstName" name="fname"></span>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                    <div class="col-lg-10 col-md-10 col-sm-10">
+                                                        <span>Email*</span>
+                                                        <span><input type="email" class="form-control textbd" id="inputEmail3" name="email"></span>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                    <div class="col-lg-10 col-md-10 col-sm-10">
+                                                        <span>Phone Number*</span>
+
+                                                        <span><input type="number" class="form-control textbd" id="phoneNumber" maxlength="10" name="phone"></span>
+
+                                                    </div>
+                                                    <div class="clearfix"></div>
+
+                                                    <div class="col-lg-10 col-md-10 col-sm-10">
+                                                        <span>Address</span>
+                                                        <span><input type="text" class="form-control textbd" id="address" name="address"></span>
+                                                    </div>
+                                                    <div class="clear"></div>
+                                                    <div class="clear"></div>
+                                                    <br>
+                                                    <div class="col-lg-10 col-md-10 col-sm-10" style="margin-bottom: 3%; margin-top: 20px;">
+                                                        <!--<label class="fa-btn btn-1 btn-1e">-->
+                                                        <input style="width: 40%;"class="btn btn-warning" type="submit" value="Send" name="send"></label>
+
+                                                    </div>
+
+
+                                                </div>
+                                            </fieldset>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!--            <div class="col-lg-4 col-md-4 col-sm-4">
+                                
+                               
+                                <div class="col-lg-12 col-md-12 col-sm-12" style="margin-top:100px;">
+                                    <img src="image/ticketing_bottom.jpg" style="width:100%;"/>
+                                </div>
+                    
+                                            
+                            </div>-->
+                </div>
+
+            </div>
         </div>
-    	
-   </div>
-</div>
-        
-        
-        
-        
-        
+       
+
+
+
+
         <div class="hidden-xs visible-md hidden-sm visible-lg  container-fluid" style="padding:0px; margin:0px 0px 0px 0px;">
             <img src="image/bottom_head.png" style="width:100%;">
         </div>
@@ -735,9 +725,29 @@
         </div>
 <?php include 'footer.php'; ?>
 
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="js/bootstrap.min.js"></script>   
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+     <script type="text/javascript" src="js/zebra_datepicker.js"></script>
+    
+      <script>
+		$(document).ready(function() {
+
+    // assuming the controls you want to attach the plugin to 
+    // have the "datepicker" class set
+    $('input.datepicker').Zebra_DatePicker();
+
+ });
+ 		var $zdp = $('#element').data('Zebra_DatePicker');
+							 
+		$('#ch_in').Zebra_DatePicker({
+		  direction: true,
+		  pair: $('#ch_out')
+		});
+		
+		$('#ch_out').Zebra_DatePicker({
+		  direction: 1
+		});				
+	</script>
+    <script src="js/bootstrap.min.js"></script>    
     </body>
 </html>

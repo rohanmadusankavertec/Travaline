@@ -198,7 +198,7 @@ function mailsend() {
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Tourism | Packages</title>
+        <title>Trava Line | Packages</title>
 
         <link rel="stylesheet" href="css/style.css">
 
@@ -335,7 +335,7 @@ function mailsend() {
 
 
 
-                                <a href="booking.php"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
+                                <a href="ticketing.php?page=tick"><img src="image/book-300x187.png" style="width: 40%; height: auto;"></a>
                                 <br>
                                 <p style="color:#333; padding-left:5px">Click here to book your Tour....</p>
                                 <a href="booking.php" class="booknow_btn">Book Now!</a>
@@ -484,7 +484,7 @@ function mailsend() {
 
 
                                         <div style="border: 2px solid #0099ff; color: #0099ff;padding-top: 10px;padding-right: 50px;padding-bottom: 10px;padding-left: 50px;">
-                                            <a href="booking.php">Book Now</a>
+                                            <a href="ticketing.php?page=tick">Book Now</a>
                                         </div>
 
 

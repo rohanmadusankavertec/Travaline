@@ -330,9 +330,11 @@ if (isset ($_POST['subject1'])){
                                 </li>
                              </ul>
                 </label>-->	
-                
-                 <label class="col-lg-12 col-md-12" style="margin-top:10px; margin-bottom:10px;">
-                    <input type="submit" value="Search Fare" class="light_btn" name="send1"  />
+                <label class="col-lg-7 col-md-7" style="margin-top: 20px;">
+                    Best Fare Click Here
+               	 </label>
+                 <label class="col-lg-5 col-md-5" style="height: 30px; margin-top: 20px;">
+                    <input type="submit" value="Search Fare" class="btn-warning" name="send1"  />
                	 </label>
                   
                 </form>
@@ -349,7 +351,7 @@ if (isset ($_POST['subject1'])){
         	
             <ul style="margin-top:90px; margin-left:-20px;">
             	
-            	<li class="slider_social_icon"><a href="#" class="social_icon"><img src="image/fb.png"/></a></li>
+            	<li class="slider_social_icon"><a href="https://www.facebook.com/Travaline-1736729383316295/" class="social_icon"><img src="image/fb.png"/></a></li>
                 <li class="slider_social_icon"><a href="#" class="social_icon"><img src="image/ut.png"/></a></li>
                 <li class="slider_social_icon"><a href="#" class="social_icon"><img src="image/g+.png"/></a></li>
                 <li class="slider_social_icon"><a href="#" class="social_icon"><img src="image/tw.png"/></a></li>
