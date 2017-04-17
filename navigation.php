@@ -22,7 +22,7 @@
                                     <span class="glyphicon glyphicon-earphone" style="color:#F00;">
                                     </span>
                                      <span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 
-                                     <span><span><img src="image/viber_whatsapp.png" width="50" height="25"/></span><span style="color: #0099ff;font-size: 17px;"> FOR BOOKING HELP</span></span>
+                                     <span><span><img src="image/viber_whatsapp.png" width="50" height="25"/></span><span style="color: #0099ff;font-size: 12px;"> FOR BOOKING HELP</span></span>
                                     
                                      </p>
                                       
