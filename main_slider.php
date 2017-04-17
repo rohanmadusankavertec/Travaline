@@ -213,7 +213,7 @@ if (isset ($_POST['subject1'])){
             	</div>
             	
             </div>-->
-            <div class="col-lg-6 col-md-10 col-sm-12" style="margin-top:20px;"> 
+            <div class="col-lg-6 col-md-10 col-sm-12" style="margin-top:20px;margin-left: 8%;"> 
                 <div class="col-lg-12 col-md-12 titel_2" style="width: 96%;">
                 <span></span><p style="font-size:20px; font-weight:bold;"><img src="image/airplane.png" height="30" width="30" style="margin-left: -20px; height: 30px; width: auto;"/> Online Booking</p>
             </div>
@@ -330,7 +330,7 @@ if (isset ($_POST['subject1'])){
                                 </li>
                              </ul>
                 </label>-->	
-                <label class="col-lg-7 col-md-7" style="margin-top: 20px;">
+                <label class="col-lg-7 col-md-7" style="margin-top: 20px;padding-left: 10%;">
                     Best Fare Click Here
                	 </label>
                  <label class="col-lg-5 col-md-5" style="height: 30px; margin-top: 20px;">
