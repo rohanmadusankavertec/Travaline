@@ -332,10 +332,10 @@ function mailsend() {
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 hidden-sm" style="margin-top:100px;">
                     <img src="image/ticketing_bottom.jpg" style="width:100%;">
                 </div>
-                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="background-image:url(image/booking_bg.jpg); background-repeat:repeat; padding-bottom:20px; margin-top:10px;">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="background-image:url(image/booking_bg.jpg); background-repeat:repeat; padding-bottom:20px; margin-top:20px;height: 500px;">
                     <h2 style="padding-left:30px;">Search Cheap International Flight Tickets</h2>
 
-                    <div class="ticket_form">
+                    <div class="ticket_form" style="padding-top: 10px;">
                         <?php mailsend() ?>
                         <form action="#" method="post" id="form">
                             <fieldset>
