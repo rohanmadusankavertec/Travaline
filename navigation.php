@@ -16,13 +16,13 @@
                 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12" style="padding:0px; margin:0px;">
                    <!-- <div class="row">-->
                    		<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12" style="padding:0px; margin:0px;">
-                            <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 con" style="padding:0px; margin:0px;">
+                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 con" style="padding:0px; margin:0px;">
                                  
-                                <p class="head_para" style="font-size: 15px;">
+                                <p class="head_para" style="font-size: 20px;">
                                     <span class="glyphicon glyphicon-earphone" style="color:#F00;">
                                     </span>
                                      <span style="color:#F00; font-weight:bold;"> Hot Line :</span> (+94) 777 58 2222 
-                                     <span><span><img src="image/viber_whatsapp.png" width="50" height="25"/></span><span style="color: #0099ff;font-size: 13px;"> FOR BOOKING HELP</span></span>
+                                     <span><span><img src="image/viber_whatsapp.png" width="50" height="25"/></span><span style="color: #0099ff;font-size: 17px;"> FOR BOOKING HELP</span></span>
                                     
                                      </p>
                                       
