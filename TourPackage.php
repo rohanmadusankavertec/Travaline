@@ -226,7 +226,7 @@ function mailsend() {
                             <p class="para">Our range of Destination Management & Leisure Products Services include:Representing Tour Operators worldwide, Handling Individual Travelers, Group inclusive Tours, Handling/ Servicing VIP’s, Special Interest Tours, Excursions / Cruises / Air taxi Services, Versatile Tour packages, Transportation, Hotel & Resort Reservation.</p>
                         </div>
                         <div class="clear"></div>
-                        <hr>
+                        <!--<hr>-->
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
 
@@ -260,7 +260,17 @@ function mailsend() {
 
                             <!--<h4 style="background-color: #cccccc">Tickets Offers</h4>-->
                             <div style="background-color:#cccccc; margin-top: -50px;">
-                                <h3 style="margin-left: 50px; height: 40px;">Tour Package</h3>
+                                <table style="background-color:#cccccc; height: 20px; width: 100%">
+                            <tr>
+                                <td>
+                                    <h4 style="margin-left: 50px;">Tour Package</h4>
+                                </td>
+                            </tr>
+                        </table>
+                                
+                                
+                                
+                                <!--<h3 style="margin-left: 50px; height: 40px;">Tour Package</h3>-->
                             </div>   
                             <div class="clear"></div>
 
@@ -439,10 +449,11 @@ function mailsend() {
             </div>
         </div>
 
-        <div class="container" style="margin-bottom: 50px;">
+        <div class="container" style="margin-bottom: 20px;">
+            
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <div class="col-lg-12 col-md-12 col-sm-12 booking_2" style="margin-top:80px;background-color: #87e2e7;">
+                    <div class="col-lg-11 col-md-11 col-sm-11 booking_2" style="margin-top:80px;background-color: #cccccc; margin-left: 4%;">
 
                         <!--                            <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
                                                 
@@ -478,8 +489,8 @@ function mailsend() {
                         <div class="container">
                             <div class="row">
 
-                                <div class="col-lg-11 col-md-11 col-sm-11" style="background-color: #ffffff;margin-bottom: 3%;border: 2px solid #cccccc;margin-left: 20px;">
-                                    <div class="booking_bd" style="margin-top: 35px;">
+                                <div class="col-lg-10 col-md-10 col-sm-10" style="background-color: #ffffff;margin-bottom: 2%;border: 2px solid #cccccc;margin-left: 20px;">
+                                    <div class="booking_bd" style="margin-top: 25px;">
                                         <form action="#" method="post">
                                             <fieldset>
 <?php mailsend() ?>
@@ -650,7 +661,7 @@ function mailsend() {
                                                                                                       </div>-->
                                                     <br>
                                                 </div>
-                                                <div class="col-lg-6 col-md-6 col-sm-6" style="background-color: #87e2e7;">
+                                                <div class="col-lg-6 col-md-6 col-sm-6" style="background-color: #cccccc;">
                                                     <h3 style="padding-left: 35px;">YOUR PACKAGE INFORMATION</h3>
 
                                                     <div class="col-lg-10 col-md-10 col-sm-10">

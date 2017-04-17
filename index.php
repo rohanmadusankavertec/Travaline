@@ -94,7 +94,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
 
-                        <h2> Air Line Tikets & Tours Operator</h2>
+                        <h2> Air Line Tickets & Tours Operator</h2>
                         <p>Trava Line</p>
                     </div> 
                 </div>
