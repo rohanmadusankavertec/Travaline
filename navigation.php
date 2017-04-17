@@ -40,7 +40,7 @@
                              </div>
                         </div>    
                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12" >
-                       <div class="langu" style="width:70%; float:right;">
+                       <div class="langu" style="width:70%; margin-left: 22px;">
                                        <select style="font-size:12px; padding:0px;"><option>Select Language</option></select>
                                      
                        </div>
