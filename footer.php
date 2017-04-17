@@ -2,10 +2,12 @@
 	<div class="container">
     	<div class="row footer_tow">
             <div class="col-lg-12 col-md-12 col-sm-12 footer_top">
+                <center>
             	<div class="col-lg-4 col-md-4 col-sm-4">
                 	<div class="footer_head">
                     	<h3>FIND US</h3>
                     </div>
+                    
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1979.0628321559946!2d80.19947913964525!3d7.226504690890802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2581b679b95bd%3A0xe803869fae375597!2sColombo-Kandy+Hwy!5e0!3m2!1sen!2slk!4v1490350684691" class="com_map" width="90%" height="200px" style="border:1px solid #333; margin-left:5%" allowfullscreen></iframe>	
 					
 <!--                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.853429654679!
@@ -33,12 +35,13 @@
                     	<h3>CONTACT US</h3>
                         
                  	</div>
+                   
                    <br>
                     <div class="footer_cont">
                     <p>Address:</p>
                     <p>97B, 3rd floor, Nyle City center,</p>
-                    <p>Kandy Road, Warakapola.</p>
-                    <p>Sri Lanka</p>
+                    <p>Kandy Road, Warakapola.Sri Lanka.</p>
+                    
                     <br>
                     <p>Fax : (+94) 352 267 440</p>
                     
@@ -48,13 +51,36 @@
                     <p>Tell : (+94) 354 93 4014</p> 
                     
                     </div>
-                   <span style="color: white;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
-                     
+                   
                </div>
+                     <!--</center>-->
                <div class="col-lg-4 col-md-4 col-sm-4">
-               		<div class="footer_head">
-                    	<h3>CERTIFICATIONS</h3>
+                   <div>
+               		<div class="footer_head" >
+                    	<h3>FOLLOW US</h3>
                  	</div>
+                   
+                   <table>
+                       <tr>
+                           <td><a href="https://www.facebook.com/Travaline-1736729383316295/"><img src="img/fb.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/g+.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/twitter.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/linkedin.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/skype.png"  style="width: 30px;height: 30px;"/></a></td>
+                       </tr>
+                       <tr>
+                           <td></td>
+                           <td><a href=""><img src="img/youtube.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/whatsapp.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/viber.png" style="width: 30px;height: 30px;"/></a></td>
+                           <td><a href=""><img src="img/Instagram.png" style="width: 30px;height: 30px;"/></a></td>
+                       </tr>
+                   </table>
+                   <br>
+                   <br>
+                   
+                   
+                   
                    <div >
                       <p ><img src="image/Civil-aviation.png" height="30%" width="30%" ></p>
                  </div>
@@ -64,9 +90,10 @@
                   
                       <!--<p><img src="image/c1.png" height="30%" width="30%" /> <img src="image/c2.png" height="30%" width="30%" /> </p>-->
                  </div>
-                   <div style="width: 200px; height: 90px;">
-                       <img src="data1/images/footer-social.png" width="200" height="90"/>
                    </div>
+<!--                   <div style="width: 200px; height: 90px;">
+                       <img src="data1/images/footer-social.png" width="200" height="90"/>
+                   </div>-->
                       
                     <!--
                     <div class="footer_head">
@@ -90,13 +117,19 @@
 					
 					
                </div>
-       
+            </center>
 					
 					
 					
             
             <div class="col-lg-12 col-md-12 col-sm-12">
             	<hr/>
+                
+                <div style="border: #ffffff solid 2px; margin-top: -16px;"></div>
+                <div style="border: #ffffff solid 2px; background-color: #323232; z-index: 5; width: 150px; position: absolute; margin-top: -18px; align-items:center; margin-left: 43%; ">
+                    <span style="width: 5px;"> </span><span style="color: white;text-align: center;"> We accept <img src="image/visamastercard.png" height="30px" width="60px;" /></span>
+                   </div>
+                <br>
             	<div class="copy">
                 	<p align="center">© 2017 Copyright Trava Line | Web Solution By <a href="http://vertecitsolutions.com" target="_blank">vertecitsolutions.com</a></p>
                 </div>

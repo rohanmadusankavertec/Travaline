@@ -7,7 +7,7 @@
             	<div class="col-lg-1 col-md-1"></div>
             	<div class="col-lg-3 col-md-3 col-sm-4 col-xs-5" style="padding:0px; margin:0px;">
                         <a class="" href="index.php">
-                            <img src="image/logo.png" class="logo_res">
+                            <img src="image/logo.jpg" class="logo_res">
                         </a>
     			</div>
               <!--  <div class="hidden-lg hidden-md hidden-sm col-xs-6">

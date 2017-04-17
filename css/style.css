@@ -150,7 +150,7 @@ header
 	z-index:1100;
 }
 .logo_res{
-	width:90%;
+	width:67%;
 /*	padding-bottom:5px;*/
 	padding:0px 0px;
 	/*height:70px;*/
@@ -949,7 +949,7 @@ background-color: #3389d7;
 }
 @media only screen and (max-width : 540px) {
 .logo_res{
-	width:130%;
+	width:100%;
 }
 .con{
 	display:none;

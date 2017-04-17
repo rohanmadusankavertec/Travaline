@@ -1574,7 +1574,7 @@
         </div>
 
         <div class="container-fluid" style="padding:0px; margin:0px;">
-            <img src="image/bottom_head.png" style="width:100%;">
+            <img src="img/bottom_head.jpg" style="width:100%;">
         </div>
         <?php include 'footer.php'; ?>
 
